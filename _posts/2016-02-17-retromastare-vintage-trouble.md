@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-17T17:20:01.377Z'
-dateModified: '2016-02-17T17:19:58.399Z'
+datePublished: '2016-02-17T17:25:17.531Z'
+dateModified: '2016-02-17T17:25:15.165Z'
 title: Retromästare - Vintage Trouble
 author: []
 sourcePath: _posts/2016-02-17-retromastare-vintage-trouble.md
@@ -30,4 +30,4 @@ Blir ett "Must see" på Yran.
 ![Vintage Trouble - 1 Hopeful Rd.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c8634e577c5ec89d49ab9777ca127fa995da58ed.jpg)
 
 Jag gillar det tidigare albumet (The Bomb Shelter Sessions) bättre men det nya (1 Hopeful Rd.) är inte långt efter.
-![Vintage Trouble - The Bomb Shelter Sessions](https://s3-us-west-2.amazonaws.com/the-grid-img/p/02c68d3e03efee05d83d34916b96674cc794da2a.jpg)
+![Vintage Trouble - The Bomb Shelter Sessions](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f42fa735eb370d47862e4244789f8cc373c12c75.jpg)
