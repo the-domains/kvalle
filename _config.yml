@@ -1,7 +1,7 @@
 name: kvalle
 favicon: null
-layout_spectrum: 0.059095239732414484
-typography_spectrum: 0.8689351719804108
+layout_spectrum: 0.23941
+typography_spectrum: 0.67827
 title: Musiktips och spellistor
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.9195836416911334
-  lightness: 0.5617448643315583
-  saturation: 0.8777081714943051
-  rhythmicContrast: 0.38344154111109674
+    - '#070304'
+    - '#f9f8f3'
+    - '#4a3a2b'
+    - '#aab2c5'
+    - '#c85c1c'
+  brandStrength: 0.25
+  lightness: 0.1875
+  saturation: 0.3125
+  rhythmicContrast: 0.5
 purpose: []
