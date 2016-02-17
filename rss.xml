@@ -4,11 +4,18 @@
         <description><![CDATA[Musiktips och spellistor]]></description>
         <link>https://thegrid.ai/kvalle/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 13:55:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Feb 2016 13:56:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kvalle/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[About]]></title>
+            <description><![CDATA[<article><h1>About</h1><p>Hej. Jag lyssnar en del på musik. Folk brukar uppskatta mina tips, de är dock inte så ofta de kommer så jag tänkte försöka ge mig på att få ut dem här.</p></article>]]></description>
+            <link>https://thegrid.ai/kvalle/about/index.html</link>
+            <guid isPermaLink="false">ded480ed-3e4a-4cac-b704-49f5f3341326</guid>
+            <pubDate>Wed, 17 Feb 2016 13:56:09 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Världens bästa album. Punkt.]]></title>
-            <description><![CDATA[<article><h1>Världens bästa album. Punkt.</h1><p>Det är lika bra att klargöra det direkt. Världens bästa album genom tiderna är Metallicas Master of puppets. Jag meddelar här om det mot förmodan kommer någon och petar ner den från toppen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9b338b5160cca3481c87eb1a71036f11c0cf934e.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Världens bästa album. Punkt.</h1><p>Det är lika bra att klargöra det direkt. Världens bästa album genom tiderna är Metallicas Master of puppets. Jag meddelar här om det mot förmodan kommer någon och petar ner den från toppen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c14334eee44d632bcb8804b20da1cdc3849820a4.jpg"></article>]]></description>
             <link>https://thegrid.ai/kvalle/varldens-basta-album-punkt/index.html</link>
             <guid isPermaLink="false">4c4eeb9f-9401-499d-a1bf-8318213e5916</guid>
             <pubDate>Wed, 17 Feb 2016 13:53:51 GMT</pubDate>
