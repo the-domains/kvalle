@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-17T17:25:17.531Z'
-dateModified: '2016-02-17T17:25:15.165Z'
+datePublished: '2016-02-17T17:32:30.038Z'
+dateModified: '2016-02-17T17:32:28.117Z'
 title: Retromästare - Vintage Trouble
 author: []
 sourcePath: _posts/2016-02-17-retromastare-vintage-trouble.md
@@ -27,7 +27,7 @@ _type: Article
 Fick detta band framdukat när Storsjöyran presenterade klara artister till sommarens Yra. De är förmodligen vad man kan hälla ur en blender efter att har matat den med 60-70 tals rock, soul, rhythm & blues. Med högkvalitativa ingredienser i form av en grym röst och kompetenta musiker blir resultatet riktigt bra. Toppa med ett finfint ljud.
 
 Blir ett "Must see" på Yran.
-![Vintage Trouble - 1 Hopeful Rd.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c8634e577c5ec89d49ab9777ca127fa995da58ed.jpg)
+![Vintage Trouble - 1 Hopeful Rd.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f947bd760033a075e858c9712469d609c50fc6b6.jpg)
 
 Jag gillar det tidigare albumet (The Bomb Shelter Sessions) bättre men det nya (1 Hopeful Rd.) är inte långt efter.
-![Vintage Trouble - The Bomb Shelter Sessions](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f42fa735eb370d47862e4244789f8cc373c12c75.jpg)
+![Vintage Trouble - The Bomb Shelter Sessions](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d3f26bd532964a7b54cc817d3f98566d0cb4d67f.jpg)
