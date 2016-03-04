@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-23T21:13:33.751Z'
-dateModified: '2016-02-23T21:12:42.471Z'
+datePublished: '2016-03-04T10:58:07.284Z'
+dateModified: '2016-03-04T10:55:17.525Z'
 title: Wolfmother - Victorious
 author: []
 sourcePath: _posts/2016-02-23-wolfmother-victorious.md
@@ -24,7 +24,8 @@ _type: Article
 ---
 # Wolfmother - Victorious
 
-10 år efter den självbetitlade debuten kommer en [ny platta][0]. Efter en snabb genomlysning konstaterar jag att jag saknar käftsmällar som Woman på deras debutplatta men likväl så finns det en del godbitar.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/963d53a0-4e10-49eb-98ea-49ff65f6420b.jpg)
+10 år efter den självbetitlade debuten kommer en [ny platta][0]. Efter en snabb genomlysning konstaterar jag att jag saknar käftsmällar som [Woman][1] på deras debutplatta men likväl så finns det en del godbitar.
+![Wolfmother - Victorious](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7995f67ad414b189f72911cf0974ab810bc647d7.jpg)
 
 [0]: https://open.spotify.com/album/36I0DNppSxHcv2k71Fy3gB
+[1]: https://open.spotify.com/track/54ix2V2omFv9UUiMks7Fhf
