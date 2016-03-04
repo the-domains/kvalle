@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-04T10:10:02.076Z'
-dateModified: '2016-03-04T10:09:56.414Z'
+datePublished: '2016-03-04T10:14:33.552Z'
+dateModified: '2016-03-04T10:10:09.787Z'
 title: Son Little - Son Little (Deluxe Edition)
 author: []
+sourcePath: _posts/2016-03-04-son-little-son-little-deluxe-edition.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-04-son-little-son-little-deluxe-edition.md
-published: true
 url: son-little-son-little-deluxe-edition/index.html
 _type: Article
 
