@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-05T15:36:52.479Z'
-dateModified: '2016-03-05T15:36:22.317Z'
+datePublished: '2016-03-05T20:03:18.853Z'
+dateModified: '2016-03-05T19:56:55.807Z'
 title: Playlist - Vecka 9
 author: []
+sourcePath: _posts/2016-03-05-playlist-vecka-9.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-05-playlist-vecka-9.md
-published: true
 url: playlist-vecka-9/index.html
 _type: Article
 
