@@ -4,11 +4,18 @@
         <description><![CDATA[Mlog - En musiklogg]]></description>
         <link>http://edin.eu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 21:35:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2016 20:07:31 GMT</lastBuildDate>
         <atom:link href="http://edin.eu/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Brian Fallon - Painkillers]]></title>
+            <description><![CDATA[<article><h1>Brian Fallon - Painkillers</h1><p>För alla fans av The Gaslight Anthem behöver han ingen närmare presentation. Här är Brian's nysläppta soloplatta.</p></article>]]></description>
+            <link>http://edin.eu/brian-fallon-painkillers/index.html</link>
+            <guid isPermaLink="false">afc26471-1e3e-4ee4-b114-caabd6ff85e6</guid>
+            <pubDate>Tue, 15 Mar 2016 20:07:16 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Struts - Everybody Wants]]></title>
-            <description><![CDATA[<article><h1>The Struts - Everybody Wants</h1><p>Jag vet inte vad jag ska säga. Efter att ha kämpat med att överleva hockeykörerna kan jag inte annat än att gilla denna platta. Det är ös, snudd på power ballads, Oasis flashbacks, plus en massa annat. Men framförallt en röst som inte ger lite Freddy Mercury vibbar. Britterna är värda en genomlyssning, det finns något för alla. (om man inte får utslag av singalong refränger) Finns på Spotify här.</p></article>]]></description>
+            <description><![CDATA[<article><h1>The Struts - Everybody Wants</h1><p>Jag vet inte vad jag ska säga. Efter att ha kämpat med att överleva hockeykörerna kan jag inte annat än att gilla denna platta. Det är ös, snudd på power ballads, Oasis flashbacks, plus en massa annat. Men framförallt en röst som inte ger lite Freddie Mercury vibbar. Britterna är värda en genomlyssning, det finns något för alla. (om man inte får utslag av singalong refränger) Finns på Spotify här.</p></article>]]></description>
             <link>http://edin.eu/the-struts-everybody-wants/index.html</link>
             <guid isPermaLink="false">30c1dba4-7011-45b7-bd1b-a6cf74509958</guid>
             <pubDate>Mon, 14 Mar 2016 21:35:24 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://edin.eu/fa67cbad-15a5-4129-9b59-a385449bd219/index.html</link>
             <guid isPermaLink="false">fa67cbad-15a5-4129-9b59-a385449bd219</guid>
             <pubDate>Fri, 26 Feb 2016 22:39:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wolfmother - Victorious]]></title>
-            <description><![CDATA[<article><h1>Wolfmother - Victorious</h1><p>10 år efter den självbetitlade debuten kommer en ny platta. Efter en snabb genomlysning konstaterar jag att jag saknar käftsmällar som Woman på deras debutplatta men likväl så finns det en del godbitar.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7995f67ad414b189f72911cf0974ab810bc647d7.jpg"></article>]]></description>
-            <link>http://edin.eu/wolfmother-victorious/index.html</link>
-            <guid isPermaLink="false">bc8e0e0d-c36e-4673-863f-4ce834f3df03</guid>
-            <pubDate>Fri, 04 Mar 2016 10:58:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
