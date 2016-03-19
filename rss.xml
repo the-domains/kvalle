@@ -4,8 +4,15 @@
         <description><![CDATA[Mlog - En musiklogg]]></description>
         <link>http://edin.eu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Mar 2016 00:07:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2016 00:13:34 GMT</lastBuildDate>
         <atom:link href="http://edin.eu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Retromästare - Vintage Trouble]]></title>
+            <description><![CDATA[<article><h1>Retromästare - Vintage Trouble</h1><p>Fick detta band framdukat när Storsjöyran presenterade klara artister till sommarens Yra. De är förmodligen vad man kan hälla ur en blender efter att har matat den med 60-70 tals rock, soul, rhythm & blues. Med högkvalitativa ingredienser i form av en grym röst och kompetenta musiker blir resultatet riktigt bra. Toppa med ett finfint ljud.</p></article>]]></description>
+            <link>http://edin.eu/retromastare-vintage-trouble/index.html</link>
+            <guid isPermaLink="false">37ca2c7a-0b44-48c4-8a34-22c505e7033b</guid>
+            <pubDate>Sat, 19 Mar 2016 00:13:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Playlist - Vecka 11]]></title>
             <description><![CDATA[<article><h1>Playlist - Vecka 11</h1><p>Veckans lista. Lite nytt, lite gammalt. Mest nytt. The Struts och Fallon nämnda tidigare i veckan. Queen för att Luke i The Struts påminde så mycket om Freddie. Nära att det blev lite The Gaslight Anthem också men det fick bli Rain and Snow med de för goda Tanjorna istället pga veckans väder.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b358b1e-1ffb-4ccd-86d9-087c9cf1564e.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://edin.eu/blues-pills-blues-pills/index.html</link>
             <guid isPermaLink="false">31e8f0b7-3b38-4eae-bca7-3e48894acf3f</guid>
             <pubDate>Fri, 04 Mar 2016 11:49:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Son Little - Son Little (Deluxe Edition)]]></title>
-            <description><![CDATA[<article><h1>Son Little - Son Little (Deluxe Edition)</h1><p>Ny bekantskap som landade med sitt debut album i höstas. Soul och Rock vibbar. Riktigt skön platta.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/98f546b25e461285b9b90e8ff7b652361afa0f6a.jpg"></article>]]></description>
-            <link>http://edin.eu/son-little-son-little-deluxe-edition/index.html</link>
-            <guid isPermaLink="false">595c9f41-3928-4a06-86e7-5c54c6ab9454</guid>
-            <pubDate>Fri, 04 Mar 2016 10:55:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
