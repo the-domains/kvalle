@@ -4,8 +4,15 @@
         <description><![CDATA[Mlog - En musiklogg]]></description>
         <link>http://edin.eu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 20:07:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2016 23:59:59 GMT</lastBuildDate>
         <atom:link href="http://edin.eu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Playlist - Vecka 11]]></title>
+            <description><![CDATA[<article><h1>Playlist - Vecka 11</h1><p>Veckans lista. Lite nytt, lite gammalt. Mest nytt. The Struts och Fallon nämnda tidigare i veckan. Queen för att Luke i The Struts påminde så mycket om Freddie. Nära att det blev lite The Gaslight Anthem också men det fick bli Rain and Snow med de för goda Tanjorna istället pga veckans väder.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b358b1e-1ffb-4ccd-86d9-087c9cf1564e.png"></article>]]></description>
+            <link>http://edin.eu/playlist-vecka-11/index.html</link>
+            <guid isPermaLink="false">bfe6164a-a0c2-4222-9dda-11bb2acc2f75</guid>
+            <pubDate>Fri, 18 Mar 2016 23:59:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Brian Fallon - Painkillers]]></title>
             <description><![CDATA[<article><h1>Brian Fallon - Painkillers</h1><p>För alla fans av The Gaslight Anthem behöver han ingen närmare presentation. Här är Brian's nysläppta soloplatta.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://edin.eu/son-little-son-little-deluxe-edition/index.html</link>
             <guid isPermaLink="false">595c9f41-3928-4a06-86e7-5c54c6ab9454</guid>
             <pubDate>Fri, 04 Mar 2016 10:55:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Playlist - Vecka 8]]></title>
-            <description><![CDATA[<article><h1>Playlist - Vecka 8</h1><p>Här kommer en spellista med 10 låtar som cirkulerat i lurarna på jobbet denna vecka. 80% rock 20% lugnare. Eclipse som jag diggat hårt några år är melodifestivalaktuella denna vecka. De båda "Vintagebanden" är utöver Eclipse favoriter på listan och Vintage Trouble tipsade jag om för någon dag sedan.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/670d73b561683aca0612a8cac3a3475bca7c5172.png"></article>]]></description>
-            <link>http://edin.eu/fa67cbad-15a5-4129-9b59-a385449bd219/index.html</link>
-            <guid isPermaLink="false">fa67cbad-15a5-4129-9b59-a385449bd219</guid>
-            <pubDate>Fri, 26 Feb 2016 22:39:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
