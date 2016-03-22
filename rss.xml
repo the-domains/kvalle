@@ -4,8 +4,15 @@
         <description><![CDATA[Mlog - En musiklogg]]></description>
         <link>http://edin.eu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Mar 2016 00:13:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2016 20:25:35 GMT</lastBuildDate>
         <atom:link href="http://edin.eu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Wild Feathers - Lonely Is A Lifetime]]></title>
+            <description><![CDATA[<article><h1>The Wild Feathers - Lonely Is A Lifetime</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/04aec007-be3a-4474-b9bf-7d2533d8691a.jpg"></article>]]></description>
+            <link>http://edin.eu/the-wild-feathers-lonely-is-a-lifetime/index.html</link>
+            <guid isPermaLink="false">98876b5b-1556-477a-929d-7073d342d83b</guid>
+            <pubDate>Tue, 22 Mar 2016 20:25:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Retromästare - Vintage Trouble]]></title>
             <description><![CDATA[<article><h1>Retromästare - Vintage Trouble</h1><p>Fick detta band framdukat när Storsjöyran presenterade klara artister till sommarens Yra. De är förmodligen vad man kan hälla ur en blender efter att har matat den med 60-70 tals rock, soul, rhythm & blues. Med högkvalitativa ingredienser i form av en grym röst och kompetenta musiker blir resultatet riktigt bra. Toppa med ett finfint ljud.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://edin.eu/playlist-vecka-9/index.html</link>
             <guid isPermaLink="false">8099a3cc-afcc-41df-8f72-5d85eefdbfa5</guid>
             <pubDate>Sat, 05 Mar 2016 20:03:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blues Pills - Blues Pills]]></title>
-            <description><![CDATA[<article><h1>Blues Pills - Blues Pills</h1><p>Mera retro blues-rock, denna gång med amerikansk-fransk-svenska Blues Pills. Plattan kom 2014 men musiken är inte direkt i evolutionens framkant (inte mycket jag lyssnar på är det) så ni får hålla till godo ändå.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ee3e9f2ecac655bbb8eda778cec68d7cc1cbda7a.jpg"></article>]]></description>
-            <link>http://edin.eu/blues-pills-blues-pills/index.html</link>
-            <guid isPermaLink="false">31e8f0b7-3b38-4eae-bca7-3e48894acf3f</guid>
-            <pubDate>Fri, 04 Mar 2016 11:49:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
