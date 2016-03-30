@@ -4,11 +4,18 @@
         <description><![CDATA[Mlog - En musiklogg]]></description>
         <link>http://edin.eu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 17:56:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2016 12:57:53 GMT</lastBuildDate>
         <atom:link href="http://edin.eu/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[White Denim - Stiff]]></title>
+            <description><![CDATA[<article><h1>White Denim - Stiff</h1><p>Lekfullt & funky soul-ish rock med driv på Stiff med White DenimTack till Spotinews som hittade denna åt mig.</p></article>]]></description>
+            <link>http://edin.eu/white-denim-stiff/index.html</link>
+            <guid isPermaLink="false">3916be34-e043-4940-9b01-0cc35e78e959</guid>
+            <pubDate>Wed, 30 Mar 2016 12:57:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Playlist - Vecka 12]]></title>
-            <description><![CDATA[<article><h1>Playlist - Vecka 12</h1><p>Ont om genomgående bra album denna vecka. Lyckades dock skramla ihop till en ok spellista. En klassiker i orginal med Jimmy Webb, resten är relativt nytt även om Iggy Pop</p></article>]]></description>
+            <description><![CDATA[<article><h1>Playlist - Vecka 12</h1><p>Ont om genomgående bra album denna vecka. Lyckades dock skramla ihop till en ok spellista. En klassiker i orginal med Jimmy Webb, resten är relativt nytt även om Iggy Pop känns rätt gammal på sin nya platta.</p></article>]]></description>
             <link>http://edin.eu/playlist-vecka-12/index.html</link>
             <guid isPermaLink="false">3363bf64-8f31-475d-8b2c-2ddb55d5f05e</guid>
             <pubDate>Sat, 26 Mar 2016 17:56:49 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://edin.eu/royal-republic-weekend-man/index.html</link>
             <guid isPermaLink="false">95a04cca-693a-47cf-a105-bb203c5dcc15</guid>
             <pubDate>Thu, 10 Mar 2016 12:02:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Old Man's Will - Hard Times - Troubled Man]]></title>
-            <description><![CDATA[<article><h1>Old Man's Will - Hard Times - Troubled Man</h1><p>Rock och tung blues med 60/70-tals vibbar från detta Umeband. Grymt!</p></article>]]></description>
-            <link>http://edin.eu/old-mans-will-hard-times-troubled-man/index.html</link>
-            <guid isPermaLink="false">47d2e4d9-d9a7-4a6b-9c80-b29671a17a60</guid>
-            <pubDate>Tue, 08 Mar 2016 18:51:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
