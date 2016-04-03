@@ -4,8 +4,15 @@
         <description><![CDATA[Mlog - En musiklogg]]></description>
         <link>http://edin.eu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Mar 2016 12:57:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2016 11:37:25 GMT</lastBuildDate>
         <atom:link href="http://edin.eu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Playlist - Vecka 13]]></title>
+            <description><![CDATA[<article><h1>Playlist - Vecka 13</h1><p>Gott & Blandat med ganska nysläppt material på denna veckas lista.</p></article>]]></description>
+            <link>http://edin.eu/playlist-vecka-13/index.html</link>
+            <guid isPermaLink="false">9235fc99-79c7-4e54-999e-fd96d91feafe</guid>
+            <pubDate>Sun, 03 Apr 2016 11:36:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[White Denim - Stiff]]></title>
             <description><![CDATA[<article><h1>White Denim - Stiff</h1><p>Lekfullt & funky soul-ish rock med driv på Stiff med White DenimTack till Spotinews som hittade denna åt mig.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://edin.eu/andrew-watt-ghost-in-my-head-ep/index.html</link>
             <guid isPermaLink="false">d990dc55-c5e6-4f62-9887-5f2459148ff0</guid>
             <pubDate>Thu, 10 Mar 2016 18:34:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Royal Republic - Weekend Man]]></title>
-            <description><![CDATA[<article><h1>Royal Republic - Weekend Man</h1><p>Energisk rock på Weekend Man från svenska Royal Republic. Överlever man ett antal "Danko Jones"-ish dängor belönas man med med Atomicsväng, Hellarock och Billy Idol-svep.</p></article>]]></description>
-            <link>http://edin.eu/royal-republic-weekend-man/index.html</link>
-            <guid isPermaLink="false">95a04cca-693a-47cf-a105-bb203c5dcc15</guid>
-            <pubDate>Thu, 10 Mar 2016 12:02:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
