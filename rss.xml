@@ -4,8 +4,15 @@
         <description><![CDATA[Mlog - En musiklogg]]></description>
         <link>http://edin.eu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Apr 2016 11:37:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2016 12:58:33 GMT</lastBuildDate>
         <atom:link href="http://edin.eu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Steepwater Band - Shake Your Faith]]></title>
+            <description><![CDATA[<article><h1>The Steepwater Band - Shake Your Faith</h1><p>Inget att skämta bort trots lanseringsdatum 1/4. Modern blues-rock, finfin platta.</p></article>]]></description>
+            <link>http://edin.eu/the-steepwater-band-shake-your-faith/index.html</link>
+            <guid isPermaLink="false">3214972b-e3d9-45dd-b605-c872a4164327</guid>
+            <pubDate>Wed, 06 Apr 2016 12:58:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Playlist - Vecka 13]]></title>
             <description><![CDATA[<article><h1>Playlist - Vecka 13</h1><p>Gott & Blandat med ganska nysläppt material på denna veckas lista.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://edin.eu/playlist-vecka-10/index.html</link>
             <guid isPermaLink="false">20be40b4-db0b-4a1e-93d9-7d60f0f8ac47</guid>
             <pubDate>Fri, 11 Mar 2016 17:56:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Andrew Watt - Ghost In My Head EP]]></title>
-            <description><![CDATA[<article><h1>Andrew Watt - Ghost In My Head EP</h1><p>4 låtar dansant rock på denna EP. Riktigt jävla bra. Hoppas på en fullängdare som uppföljning.</p></article>]]></description>
-            <link>http://edin.eu/andrew-watt-ghost-in-my-head-ep/index.html</link>
-            <guid isPermaLink="false">d990dc55-c5e6-4f62-9887-5f2459148ff0</guid>
-            <pubDate>Thu, 10 Mar 2016 18:34:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
