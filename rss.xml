@@ -4,8 +4,15 @@
         <description><![CDATA[Mlog - En musiklogg]]></description>
         <link>http://edin.eu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 20:56:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2016 21:11:13 GMT</lastBuildDate>
         <atom:link href="http://edin.eu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Playlist - Vecka 15]]></title>
+            <description><![CDATA[<article><h1>Playlist - Vecka 15</h1><p>Avslutar dagen med att publicera veckans spellista. Imorgon bär det av till Uppsala för Ebbot Lundberg & The Indigo Children och syrrans 40-års kalas.</p></article>]]></description>
+            <link>http://edin.eu/playlist-vecka-15/index.html</link>
+            <guid isPermaLink="false">4b6e7bef-42c8-4391-b3a3-20d8460179ab</guid>
+            <pubDate>Thu, 14 Apr 2016 21:10:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[El Pino and the Volunteers]]></title>
             <description><![CDATA[<article><h1>El Pino and the Volunteers</h1><p>Amsterdambaserade El Pino and the Volunteers bjuder på riktigt skön poppig rock på detta album. Inte det mest spelade bandet på Spotify men de är värda betydligt fler lyssningar.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://edin.eu/retromastare-vintage-trouble/index.html</link>
             <guid isPermaLink="false">37ca2c7a-0b44-48c4-8a34-22c505e7033b</guid>
             <pubDate>Sat, 19 Mar 2016 00:13:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Playlist - Vecka 11]]></title>
-            <description><![CDATA[<article><h1>Playlist - Vecka 11</h1><p>Veckans lista. Lite nytt, lite gammalt. Mest nytt. The Struts och Fallon nämnda tidigare i veckan. Queen för att Luke i The Struts påminde så mycket om Freddie. Nära att det blev lite The Gaslight Anthem också men det fick bli Rain and Snow med de för goda Tanjorna istället pga veckans väder.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b358b1e-1ffb-4ccd-86d9-087c9cf1564e.png"></article>]]></description>
-            <link>http://edin.eu/playlist-vecka-11/index.html</link>
-            <guid isPermaLink="false">bfe6164a-a0c2-4222-9dda-11bb2acc2f75</guid>
-            <pubDate>Sat, 19 Mar 2016 00:07:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
