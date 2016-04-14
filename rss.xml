@@ -4,8 +4,15 @@
         <description><![CDATA[Mlog - En musiklogg]]></description>
         <link>http://edin.eu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Apr 2016 18:14:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2016 20:56:33 GMT</lastBuildDate>
         <atom:link href="http://edin.eu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Battleme - Habitual Love Songs]]></title>
+            <description><![CDATA[<article><h1>Battleme - Habitual Love Songs</h1><p>Lite skitig folk-rock, ganska eget sound. Bra amerikanskt skit helt enkelt. Hittas på Spotify här minsann</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6463cd03-7873-4527-87fa-4b6cfa30a7b3.jpg"></article>]]></description>
+            <link>http://edin.eu/battleme-habitual-love-songs/index.html</link>
+            <guid isPermaLink="false">eec28459-e2e6-44a5-81bb-f99f32b4178e</guid>
+            <pubDate>Thu, 14 Apr 2016 20:55:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Playlist - Vecka 14]]></title>
             <description><![CDATA[<article><h1>Playlist - Vecka 14</h1><p>Veckans spellista avnjuts på Holiday Club i Åre. Soft.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b52c1e1-810c-4079-b493-833ca7d15f0b.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://edin.eu/brian-fallon-painkillers/index.html</link>
             <guid isPermaLink="false">afc26471-1e3e-4ee4-b114-caabd6ff85e6</guid>
             <pubDate>Tue, 15 Mar 2016 20:07:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Struts - Everybody Wants]]></title>
-            <description><![CDATA[<article><h1>The Struts - Everybody Wants</h1><p>Jag vet inte vad jag ska säga. Efter att ha kämpat med att överleva hockeykörerna kan jag inte annat än att gilla denna platta. Det är ös, snudd på power ballads, Oasis flashbacks, plus en massa annat. Men framförallt en röst som inte ger lite Freddie Mercury vibbar. Britterna är värda en genomlyssning, det finns något för alla. (om man inte får utslag av singalong refränger) Finns på Spotify här.</p></article>]]></description>
-            <link>http://edin.eu/the-struts-everybody-wants/index.html</link>
-            <guid isPermaLink="false">30c1dba4-7011-45b7-bd1b-a6cf74509958</guid>
-            <pubDate>Mon, 14 Mar 2016 21:35:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
