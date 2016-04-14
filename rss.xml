@@ -4,8 +4,15 @@
         <description><![CDATA[Mlog - En musiklogg]]></description>
         <link>http://edin.eu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 20:56:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2016 20:56:41 GMT</lastBuildDate>
         <atom:link href="http://edin.eu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[El Pino and the Volunteers]]></title>
+            <description><![CDATA[<article><h1>El Pino and the Volunteers</h1><p>Amsterdambaserade El Pino and the Volunteers bjuder på riktigt skön poppig rock på detta album. Inte det mest spelade bandet på Spotify men de är värda betydligt fler lyssningar.</p></article>]]></description>
+            <link>http://edin.eu/el-pino-and-the-volunteers/index.html</link>
+            <guid isPermaLink="false">2df05bec-7ac5-405a-ad6a-4b0c58f78f29</guid>
+            <pubDate>Thu, 14 Apr 2016 20:55:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Battleme - Habitual Love Songs]]></title>
             <description><![CDATA[<article><h1>Battleme - Habitual Love Songs</h1><p>Lite skitig folk-rock, ganska eget sound. Bra amerikanskt skit helt enkelt. Hittas på Spotify här minsann</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6463cd03-7873-4527-87fa-4b6cfa30a7b3.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://edin.eu/playlist-vecka-11/index.html</link>
             <guid isPermaLink="false">bfe6164a-a0c2-4222-9dda-11bb2acc2f75</guid>
             <pubDate>Sat, 19 Mar 2016 00:07:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Brian Fallon - Painkillers]]></title>
-            <description><![CDATA[<article><h1>Brian Fallon - Painkillers</h1><p>För alla fans av The Gaslight Anthem behöver han ingen närmare presentation. Här är Brian's nysläppta soloplatta.</p></article>]]></description>
-            <link>http://edin.eu/brian-fallon-painkillers/index.html</link>
-            <guid isPermaLink="false">afc26471-1e3e-4ee4-b114-caabd6ff85e6</guid>
-            <pubDate>Tue, 15 Mar 2016 20:07:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
