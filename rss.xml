@@ -4,8 +4,15 @@
         <description><![CDATA[Mlog - En musiklogg]]></description>
         <link>http://edin.eu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 11:47:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2016 11:52:50 GMT</lastBuildDate>
         <atom:link href="http://edin.eu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Playlist - Vecka 16]]></title>
+            <description><![CDATA[<article><h1>Playlist - Vecka 16</h1><p>Ny musik finns på spellistan för vecka 16</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab64f5d0-b023-4a07-af30-cd9ec06500b8.png"></article>]]></description>
+            <link>http://edin.eu/playlist-vecka-16/index.html</link>
+            <guid isPermaLink="false">944727e9-d813-4d97-9d5e-815ae238c2eb</guid>
+            <pubDate>Sun, 24 Apr 2016 11:52:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Defiants - The Defiants]]></title>
             <description><![CDATA[<article><h1>The Defiants - The Defiants</h1><p>Danger danger. 80/90-talet var förbi och lämnade av den här hårdrocksplattan.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/96d0812e-5118-42d3-aaef-b966e024a83e.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://edin.eu/white-denim-stiff/index.html</link>
             <guid isPermaLink="false">3916be34-e043-4940-9b01-0cc35e78e959</guid>
             <pubDate>Wed, 30 Mar 2016 12:57:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Playlist - Vecka 12]]></title>
-            <description><![CDATA[<article><h1>Playlist - Vecka 12</h1><p>Ont om genomgående bra album denna vecka. Lyckades dock skramla ihop till en ok spellista. En klassiker i orginal med Jimmy Webb, resten är relativt nytt även om Iggy Pop känns rätt gammal på sin nya platta.</p></article>]]></description>
-            <link>http://edin.eu/playlist-vecka-12/index.html</link>
-            <guid isPermaLink="false">3363bf64-8f31-475d-8b2c-2ddb55d5f05e</guid>
-            <pubDate>Sat, 26 Mar 2016 17:56:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
