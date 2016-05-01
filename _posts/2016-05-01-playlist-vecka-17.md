@@ -5,12 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Mycket Soul, Blues & Rock. Ja kanske allt är som vanligt då. Veckans spellista.'
-datePublished: '2016-05-01T19:27:30.425Z'
-dateModified: '2016-05-01T19:27:23.254Z'
+datePublished: '2016-05-01T19:56:50.022Z'
+dateModified: '2016-05-01T19:56:41.043Z'
 title: Playlist - Vecka 17
 author:
-  - name: ''
-    url: ''
+  - name: Magnus Edin
+    url: www.edin.eu
+sourcePath: _posts/2016-05-01-playlist-vecka-17.md
+published: true
 authors: []
 publisher:
   name: null
@@ -18,8 +20,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-01-playlist-vecka-17.md
-published: true
 url: playlist-vecka-17/index.html
 _type: Article
 
