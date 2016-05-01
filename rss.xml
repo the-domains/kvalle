@@ -4,8 +4,15 @@
         <description><![CDATA[Mlog - En musiklogg]]></description>
         <link>http://edin.eu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 19:26:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2016 15:57:20 GMT</lastBuildDate>
         <atom:link href="http://edin.eu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Jessica Hernandez & The Deltas - Secret Evil]]></title>
+            <description><![CDATA[<article><h1>Jessica Hernandez & The Deltas - Secret Evil</h1><p>Åh! Ett fynd med ett par år på nacken. Ljuvlig svängig Soulpop, bra röst! Secret Evil finns med några bonusspår på Spotify här.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bedc8d6b-edc5-46da-a43c-88772c24ec4e.jpg"></article>]]></description>
+            <link>http://edin.eu/jessica-hernandez-and-the-deltas-secret-evil/index.html</link>
+            <guid isPermaLink="false">ffeda3c8-37cc-4570-8028-0df23d2502de</guid>
+            <pubDate>Sun, 01 May 2016 15:56:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Escondido - Walking With a Stranger]]></title>
             <description><![CDATA[<article><h1>Escondido - Walking With a Stranger</h1><p>Här har vi en platta där en producent till en modern spagettiwestern skulle kunna hitta potentiella soundtracks. Svävande cosy.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/50d67d0a-3f42-4f9d-b563-2bda5fa7fb51.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://edin.eu/playlist-vecka-13/index.html</link>
             <guid isPermaLink="false">9235fc99-79c7-4e54-999e-fd96d91feafe</guid>
             <pubDate>Sun, 03 Apr 2016 11:36:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[White Denim - Stiff]]></title>
-            <description><![CDATA[<article><h1>White Denim - Stiff</h1><p>Lekfullt & funky soul-ish rock med driv på Stiff med White DenimTack till Spotinews som hittade denna åt mig.</p></article>]]></description>
-            <link>http://edin.eu/white-denim-stiff/index.html</link>
-            <guid isPermaLink="false">3916be34-e043-4940-9b01-0cc35e78e959</guid>
-            <pubDate>Wed, 30 Mar 2016 12:57:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
