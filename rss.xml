@@ -4,8 +4,15 @@
         <description><![CDATA[Mlog - En musiklogg]]></description>
         <link>http://edin.eu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 20:47:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2016 06:48:23 GMT</lastBuildDate>
         <atom:link href="http://edin.eu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Kyle Craft - Dolls of Highland]]></title>
+            <description><![CDATA[<article><h1>Kyle Craft - Dolls of Highland</h1><p>Debutalbum av rock singer-songwriter Kyle Craft, En bra debut, skön platta</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c93d79c1-2e81-4dc5-9737-14cd8e48e677.jpg"></article>]]></description>
+            <link>http://edin.eu/kyle-craft-dolls-of-highland/index.html</link>
+            <guid isPermaLink="false">8b2b4e8b-cfda-429c-a686-444af28b5c0e</guid>
+            <pubDate>Tue, 10 May 2016 06:47:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Playlist - Vecka 17]]></title>
             <description><![CDATA[<article><h1>Playlist - Vecka 17</h1><p>En del Soul, Blues & Rock. Ja kanske allt är som vanligt då. Veckans spellista.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/82818b43-da96-4ac0-9a93-213eca921279.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://edin.eu/battleme-habitual-love-songs/index.html</link>
             <guid isPermaLink="false">eec28459-e2e6-44a5-81bb-f99f32b4178e</guid>
             <pubDate>Thu, 14 Apr 2016 20:55:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Playlist - Vecka 14]]></title>
-            <description><![CDATA[<article><h1>Playlist - Vecka 14</h1><p>Veckans spellista avnjuts på Holiday Club i Åre. Soft.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b52c1e1-810c-4079-b493-833ca7d15f0b.png"></article>]]></description>
-            <link>http://edin.eu/playlist-vecka-14/index.html</link>
-            <guid isPermaLink="false">1829c655-c8a7-4921-8190-13eb15803e8f</guid>
-            <pubDate>Sat, 09 Apr 2016 18:14:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
