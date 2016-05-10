@@ -4,8 +4,15 @@
         <description><![CDATA[Mlog - En musiklogg]]></description>
         <link>http://edin.eu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 May 2016 06:48:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2016 06:56:23 GMT</lastBuildDate>
         <atom:link href="http://edin.eu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hypnos - Cold Winds]]></title>
+            <description><![CDATA[<article><h1>Hypnos - Cold Winds</h1><p>Retro hårdrock från svenska Hypnos på plattan Cold Winds.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a09e21f-5533-4570-8cc6-89bdc251eacb.jpg"></article>]]></description>
+            <link>http://edin.eu/hypnos-cold-winds/index.html</link>
+            <guid isPermaLink="false">0695e140-e2f7-447e-bb62-ee74628a1fd0</guid>
+            <pubDate>Tue, 10 May 2016 06:54:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Kyle Craft - Dolls of Highland]]></title>
             <description><![CDATA[<article><h1>Kyle Craft - Dolls of Highland</h1><p>Debutalbum av rock singer-songwriter Kyle Craft, En bra debut, skön platta</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c93d79c1-2e81-4dc5-9737-14cd8e48e677.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>El Pino and the Volunteers</h1><p>Amsterdambaserade El Pino and the Volunteers bjuder på riktigt skön poppig rock på detta album. Inte det mest spelade bandet på Spotify men de är värda betydligt fler lyssningar.</p></article>]]></description>
             <link>http://edin.eu/el-pino-and-the-volunteers/index.html</link>
             <guid isPermaLink="false">2df05bec-7ac5-405a-ad6a-4b0c58f78f29</guid>
-            <pubDate>Thu, 14 Apr 2016 20:55:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Battleme - Habitual Love Songs]]></title>
-            <description><![CDATA[<article><h1>Battleme - Habitual Love Songs</h1><p>Lite skitig folk-rock, ganska eget sound. Bra amerikanskt skit helt enkelt. Hittas på Spotify här minsann</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6463cd03-7873-4527-87fa-4b6cfa30a7b3.jpg"></article>]]></description>
-            <link>http://edin.eu/battleme-habitual-love-songs/index.html</link>
-            <guid isPermaLink="false">eec28459-e2e6-44a5-81bb-f99f32b4178e</guid>
             <pubDate>Thu, 14 Apr 2016 20:55:58 GMT</pubDate>
         </item>
     </channel>
