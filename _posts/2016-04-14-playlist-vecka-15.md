@@ -1,23 +1,21 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: 'Avslutar dagen med att publicera veckans spellista. Imorgon bär det av till Uppsala för Ebbot Lundberg & The Indigo Children och syrrans 40-års kalas.'
-datePublished: '2016-04-14T21:10:13.513Z'
-dateModified: '2016-04-14T21:08:37.367Z'
-title: Playlist - Vecka 15
-author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+datePublished: '2016-08-20T10:30:58.377Z'
 sourcePath: _posts/2016-04-14-playlist-vecka-15.md
-published: true
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
+author: []
+via: {}
+dateModified: '2016-08-20T10:30:57.789Z'
+title: Playlist - Vecka 15
+publisher: {}
+description: >-
+  Avslutar dagen med att publicera veckans spellista. Imorgon bär det av till
+  Uppsala för Ebbot Lundberg & The Indigo Children och syrrans 40-års kalas.
+inLanguage: null
+inNav: false
+starred: false
 url: playlist-vecka-15/index.html
 _type: Article
 
