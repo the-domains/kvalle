@@ -4,8 +4,15 @@
         <description><![CDATA[Mlog - En musiklogg]]></description>
         <link>http://edin.eu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 10:39:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 10:40:27 GMT</lastBuildDate>
         <atom:link href="http://edin.eu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Andrew Watt - Ghost In My Head EP]]></title>
+            <description><![CDATA[<article><h1>Andrew Watt - Ghost In My Head EP</h1><p>4 låtar dansant rock på denna EP. Riktigt jävla bra. Hoppas på en fullängdare som uppföljning.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a035d7c0203182bab07732ccc28cd5c0ded5e65f.jpg"></article>]]></description>
+            <link>http://edin.eu/andrew-watt-ghost-in-my-head-ep/index.html</link>
+            <guid isPermaLink="false">d990dc55-c5e6-4f62-9887-5f2459148ff0</guid>
+            <pubDate>Sat, 20 Aug 2016 10:40:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Old Man's Will - Hard Times - Troubled Man]]></title>
             <description><![CDATA[<article><h1>Old Man's Will - Hard Times - Troubled Man</h1><p>Rock och tung blues med 60/70-tals vibbar från detta Umeband. Grymt!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d32a507202896fe571fbacd8e77f5bd759c2d40e.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://edin.eu/escondido-walking-with-a-stranger/index.html</link>
             <guid isPermaLink="false">f5742567-b049-417d-9367-dd844e2e9720</guid>
             <pubDate>Sun, 24 Apr 2016 19:25:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Playlist - Vecka 16]]></title>
-            <description><![CDATA[<article><h1>Playlist - Vecka 16</h1><p>Ny musik finns på spellistan för vecka 16</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab64f5d0-b023-4a07-af30-cd9ec06500b8.png"></article>]]></description>
-            <link>http://edin.eu/playlist-vecka-16/index.html</link>
-            <guid isPermaLink="false">944727e9-d813-4d97-9d5e-815ae238c2eb</guid>
-            <pubDate>Sun, 24 Apr 2016 11:52:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
