@@ -1,13 +1,15 @@
 ---
-datePublished: '2016-08-20T10:37:00.735Z'
+datePublished: '2016-08-20T10:39:02.018Z'
 sourcePath: _posts/2016-02-17-retromastare-vintage-trouble.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
-author: []
+author:
+  - name: ''
+    url: ''
 via: {}
-dateModified: '2016-08-20T10:37:00.299Z'
+dateModified: '2016-08-20T10:39:01.508Z'
 title: Retromästare - Vintage Trouble
 publisher: {}
 description: >-
