@@ -4,8 +4,15 @@
         <description><![CDATA[Mlog - En musiklogg]]></description>
         <link>http://edin.eu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Aug 2016 10:57:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2016 10:58:37 GMT</lastBuildDate>
         <atom:link href="http://edin.eu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[White Denim - Stiff]]></title>
+            <description><![CDATA[<article><h1>White Denim - Stiff</h1><p>Lekfullt & funky soul-ish rock med driv på Stiff med White Denim Tack till Spotinews som hittade denna åt mig.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7abae927-b9a4-4a2c-ab4e-062648bd83e8.jpg"></article>]]></description>
+            <link>http://edin.eu/white-denim-stiff/index.html</link>
+            <guid isPermaLink="false">3916be34-e043-4940-9b01-0cc35e78e959</guid>
+            <pubDate>Sun, 21 Aug 2016 10:58:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Playlist - Vecka 12]]></title>
             <description><![CDATA[<article><h1>Playlist - Vecka 12</h1><p>Ont om genomgående bra album denna vecka. Lyckades dock skramla ihop till en ok spellista. En klassiker i orginal med Jimmy Webb, resten är relativt nytt även om Iggy Pop känns rätt gammal på sin nya platta.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/174fdf16-0191-465a-a810-371be4476e04.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://edin.eu/hypnos-cold-winds/index.html</link>
             <guid isPermaLink="false">0695e140-e2f7-447e-bb62-ee74628a1fd0</guid>
             <pubDate>Tue, 10 May 2016 06:54:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kyle Craft - Dolls of Highland]]></title>
-            <description><![CDATA[<article><h1>Kyle Craft - Dolls of Highland</h1><p>Debutalbum av rock singer-songwriter Kyle Craft, En bra debut, skön platta</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c93d79c1-2e81-4dc5-9737-14cd8e48e677.jpg"></article>]]></description>
-            <link>http://edin.eu/kyle-craft-dolls-of-highland/index.html</link>
-            <guid isPermaLink="false">8b2b4e8b-cfda-429c-a686-444af28b5c0e</guid>
-            <pubDate>Tue, 10 May 2016 06:47:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
