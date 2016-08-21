@@ -1,17 +1,17 @@
 ---
-description: '2016-08-21, Nytt från Blues Pills'
-dateModified: '2016-08-21T16:22:10.492Z'
-datePublished: '2016-08-21T16:24:07.321Z'
-title: Blues Pills - Lady in Gold
-author: []
-publisher: {}
-via: {}
+datePublished: '2016-08-21T17:28:08.186Z'
 sourcePath: _posts/2016-08-21-blues-pills-lady-in-gold.md
-starred: false
 inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+author: []
+via: {}
+dateModified: '2016-08-21T17:28:07.490Z'
+title: Blues Pills - Lady in Gold
+publisher: {}
+description: '2016-08-21, Nytt från Blues Pills'
+starred: false
+url: blues-pills-lady-in-gold/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a41f00b6-b5b6-49f9-8c7d-09f09d970665.jpg)
