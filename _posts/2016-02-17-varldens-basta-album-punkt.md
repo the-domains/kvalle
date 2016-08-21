@@ -1,28 +1,29 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: ''
-datePublished: '2016-02-17T13:53:51.175Z'
-dateModified: '2016-02-17T13:52:59.116Z'
-title: Världens bästa album. Punkt.
-author: []
+datePublished: '2016-08-21T11:31:22.443Z'
 sourcePath: _posts/2016-02-17-varldens-basta-album-punkt.md
-published: true
+inFeed: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+hasPage: true
+keywords: []
+author:
+  - name: ''
+    url: ''
+via: {}
+dateModified: '2016-08-21T11:31:21.804Z'
+title: Världens bästa album. Punkt.
+publisher: {}
+description: >-
+  Det är lika bra att klargöra det direkt. Världens bästa album genom tiderna är
+  Metallicas Master of puppets. Jag meddelar här om det mot förmodan kommer
+  någon och petar ner den från toppen.
+inLanguage: null
+inNav: false
+starred: false
 url: varldens-basta-album-punkt/index.html
 _type: Article
 
 ---
 # Världens bästa album. Punkt.
-![Metallica - Master of puppets](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9b338b5160cca3481c87eb1a71036f11c0cf934e.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c14334eee44d632bcb8804b20da1cdc3849820a4.jpg)
 
 Det är lika bra att klargöra det direkt. Världens bästa album genom tiderna är Metallicas Master of puppets. Jag meddelar här om det mot förmodan kommer någon och petar ner den från toppen.
