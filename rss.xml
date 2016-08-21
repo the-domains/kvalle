@@ -4,8 +4,15 @@
         <description><![CDATA[Mlog]]></description>
         <link>http://edin.eu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Aug 2016 15:34:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2016 15:40:47 GMT</lastBuildDate>
         <atom:link href="http://edin.eu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Rival Sons - Hollow Bones]]></title>
+            <description><![CDATA[<article><h1>Rival Sons - Hollow Bones</h1><p>Favoritbandet har släppt nytt för ett tag sedan. Fortsatt lysande, må de aldrig sluta.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a02b4e2-3b6d-420b-af83-3029769f73c6.jpg"></article>]]></description>
+            <link>http://edin.eu/rival-sons-hollow-bones</link>
+            <guid isPermaLink="false">33bd37fc-71a0-490f-bb5d-61c367418ed8</guid>
+            <pubDate>Sun, 21 Aug 2016 15:40:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Struts - Everybody Wants]]></title>
             <description><![CDATA[<article><h1>The Struts - Everybody Wants</h1><p>Rock med bra ös, en röst som inte så lite påminner om Freddie M.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9f4dc6f-3d47-44c5-ad78-56db90630f5b.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://edin.eu/el-pino-and-the-volunteers/index.html</link>
             <guid isPermaLink="false">2df05bec-7ac5-405a-ad6a-4b0c58f78f29</guid>
             <pubDate>Sun, 21 Aug 2016 14:16:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[White Denim - Stiff]]></title>
-            <description><![CDATA[<article><h1>White Denim - Stiff</h1><p>Lekfullt & funky soul-ish rock med driv på Stiff med White DenimTack till Spotinews som hittade denna åt mig.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7abae927-b9a4-4a2c-ab4e-062648bd83e8.jpg"></article>]]></description>
-            <link>http://edin.eu/white-denim-stiff/index.html</link>
-            <guid isPermaLink="false">3916be34-e043-4940-9b01-0cc35e78e959</guid>
-            <pubDate>Sun, 21 Aug 2016 14:16:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
