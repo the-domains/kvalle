@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-21T15:30:04.096Z'
+datePublished: '2016-08-21T15:34:32.234Z'
 sourcePath: _posts/2016-08-21-rival-sons-hollow-bones.md
 author: []
 via: {}
-dateModified: '2016-08-21T15:30:03.621Z'
-title: Rival Sons -Hollow Bones
+dateModified: '2016-08-21T15:34:21.148Z'
+title: Rival Sons - Hollow Bones
 publisher: {}
 description: >-
   Favoritbandet har släppt nytt för ett tag sedan. Fortsatt lysande, må de
@@ -16,7 +16,7 @@ inNav: false
 _type: MediaObject
 
 ---
-# Rival Sons -Hollow Bones
+# Rival Sons - Hollow Bones
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a02b4e2-3b6d-420b-af83-3029769f73c6.jpg)
 
 Favoritbandet har [släppt nytt][0] för ett tag sedan. Fortsatt lysande, må de aldrig sluta.
