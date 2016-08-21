@@ -1,23 +1,20 @@
 ---
+datePublished: '2016-08-21T12:10:59.586Z'
+sourcePath: _posts/2016-04-24-the-defiants-the-defiants.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: false
-inLanguage: null
 keywords: []
-description: Danger danger. 80/90-talet var förbi och lämnade av den här hårdrocksplattan.
-datePublished: '2016-08-21T11:28:17.636Z'
-dateModified: '2016-04-24T19:31:04.645Z'
-title: The Defiants - The Defiants
 author:
   - name: ''
     url: ''
-sourcePath: _posts/2016-04-24-the-defiants-the-defiants.md
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+via: {}
+dateModified: '2016-08-21T12:10:58.733Z'
+title: The Defiants - The Defiants
+publisher: {}
+description: Danger danger. 80/90-talet var förbi och lämnade av den här hårdrocksplattan.
+inLanguage: null
+inNav: false
 starred: false
 url: the-defiants-the-defiants/index.html
 _type: Article
