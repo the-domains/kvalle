@@ -1,23 +1,26 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: 'Skön amerikansk rock åt det lite poppigare hållet på denna platta. Bra låtskrivare, bra röster. Gillart, men vill nu hitta en rockplatta med lite ös och sköna riff.'
-datePublished: '2016-03-22T20:25:33.358Z'
-dateModified: '2016-03-22T20:25:22.933Z'
-title: The Wild Feathers - Lonely Is A Lifetime
-author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+datePublished: '2016-08-21T12:08:58.308Z'
 sourcePath: _posts/2016-03-22-the-wild-feathers-lonely-is-a-lifetime.md
-published: true
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
+author:
+  - name: ''
+    url: ''
+dateModified: '2016-08-21T12:08:57.791Z'
+title: The Wild Feathers - Lonely Is A Lifetime
+publisher:
+  name: ''
+  url: ''
+description: >-
+  Skön amerikansk rock åt det lite poppigare hållet på denna platta. Bra
+  låtskrivare, bra röster. Gillart, men vill nu hitta en rockplatta med lite ös
+  och sköna riff.
+inLanguage: null
+inNav: false
+via: {}
+starred: false
 url: the-wild-feathers-lonely-is-a-lifetime/index.html
 _type: Article
 
