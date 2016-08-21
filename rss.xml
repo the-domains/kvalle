@@ -4,8 +4,15 @@
         <description><![CDATA[Mlog]]></description>
         <link>http://edin.eu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Aug 2016 14:13:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2016 14:14:10 GMT</lastBuildDate>
         <atom:link href="http://edin.eu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Son Little - Son Little (Deluxe Edition)]]></title>
+            <description><![CDATA[<article><h1>Son Little - Son Little (Deluxe Edition)</h1><p>Ny bekantskap som landade med sitt debut album i höstas. Soul och Rock vibbar. Riktigt skön platta.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/98f546b25e461285b9b90e8ff7b652361afa0f6a.jpg"></article>]]></description>
+            <link>http://edin.eu/son-little-son-little-deluxe-edition/index.html</link>
+            <guid isPermaLink="false">595c9f41-3928-4a06-86e7-5c54c6ab9454</guid>
+            <pubDate>Sun, 21 Aug 2016 14:14:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wolfmother - Victorious]]></title>
             <description><![CDATA[<article><h1>Wolfmother - Victorious</h1><p>10 år efter den självbetitlade debuten kommer en ny platta. Efter en snabb genomlysning konstaterar jag att jag saknar käftsmällar som Woman på deras debutplatta men likväl så finns det en del godbitar.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2719947b-3107-417e-b3f2-b4c1f5e6504d.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://edin.eu/the-wild-feathers-lonely-is-a-lifetime/index.html</link>
             <guid isPermaLink="false">98876b5b-1556-477a-929d-7073d342d83b</guid>
             <pubDate>Sun, 21 Aug 2016 12:08:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Brian Fallon - Painkillers]]></title>
-            <description><![CDATA[<article><h1>Brian Fallon - Painkillers</h1><p>För alla fans av The Gaslight Anthem behöver han ingen närmare presentation. Här är Brian's nysläppta soloplatta.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ee49f38eaa590418c4727832d49e98fc41d93a7c.jpg"></article>]]></description>
-            <link>http://edin.eu/brian-fallon-painkillers/index.html</link>
-            <guid isPermaLink="false">afc26471-1e3e-4ee4-b114-caabd6ff85e6</guid>
-            <pubDate>Sun, 21 Aug 2016 12:08:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
