@@ -4,8 +4,15 @@
         <description><![CDATA[Mlog - En musiklogg]]></description>
         <link>http://edin.eu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Aug 2016 11:28:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2016 11:33:03 GMT</lastBuildDate>
         <atom:link href="http://edin.eu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Världens bästa album. Punkt.]]></title>
+            <description><![CDATA[<article><h1>Världens bästa album. Punkt.</h1><p>Det är lika bra att klargöra det direkt. Världens bästa album genom tiderna är Metallicas Master of puppets. Jag meddelar här om det mot förmodan kommer någon och petar ner den från toppen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c14334eee44d632bcb8804b20da1cdc3849820a4.jpg"></article>]]></description>
+            <link>http://edin.eu/varldens-basta-album-punkt/index.html</link>
+            <guid isPermaLink="false">4c4eeb9f-9401-499d-a1bf-8318213e5916</guid>
+            <pubDate>Sun, 21 Aug 2016 11:31:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Royal Republic - Weekend Man]]></title>
             <description><![CDATA[<article><h1>Royal Republic - Weekend Man</h1><p>Energisk rock på Weekend Man från svenska Royal Republic. Överlever man ett antal "Danko Jones"-ish dängor belönas man med med Atomicsväng, Hellarock och Billy Idol-svep.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d61a4354558470a11f678642ef3b272871f7b1c.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://edin.eu/white-denim-stiff/index.html</link>
             <guid isPermaLink="false">3916be34-e043-4940-9b01-0cc35e78e959</guid>
             <pubDate>Sun, 21 Aug 2016 10:58:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Brian Fallon - Painkillers]]></title>
-            <description><![CDATA[<article><h1>Brian Fallon - Painkillers</h1><p>För alla fans av The Gaslight Anthem behöver han ingen närmare presentation. Här är Brian's nysläppta soloplatta.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ee49f38eaa590418c4727832d49e98fc41d93a7c.jpg"></article>]]></description>
-            <link>http://edin.eu/brian-fallon-painkillers/index.html</link>
-            <guid isPermaLink="false">afc26471-1e3e-4ee4-b114-caabd6ff85e6</guid>
-            <pubDate>Sun, 21 Aug 2016 10:57:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
