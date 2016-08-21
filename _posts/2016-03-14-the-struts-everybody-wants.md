@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-21T10:55:41.608Z'
+datePublished: '2016-08-21T10:56:21.684Z'
 sourcePath: _posts/2016-03-14-the-struts-everybody-wants.md
 inFeed: true
 authors: []
@@ -8,11 +8,10 @@ keywords: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-08-21T10:55:41.098Z'
+via: {}
+dateModified: '2016-08-21T10:56:20.779Z'
 title: The Struts - Everybody Wants
-publisher:
-  name: ''
-  url: ''
+publisher: {}
 description: >-
   Jag vet inte vad jag ska säga. Efter att ha kämpat med att överleva
   hockeykörerna kan jag inte annat än att gilla denna platta. Det är ös, snudd
@@ -22,7 +21,6 @@ description: >-
   refränger) Finns på Spotify här.
 inLanguage: null
 inNav: false
-via: {}
 starred: false
 url: the-struts-everybody-wants/index.html
 _type: Article
