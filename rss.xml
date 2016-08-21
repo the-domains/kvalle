@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Mlog - En musiklogg]]></title>
-        <description><![CDATA[Mlog - En musiklogg]]></description>
+        <title><![CDATA[Mlog]]></title>
+        <description><![CDATA[Mlog]]></description>
         <link>http://edin.eu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Aug 2016 12:04:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2016 12:06:17 GMT</lastBuildDate>
         <atom:link href="http://edin.eu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Old Man's Will - Hard Times - Troubled Man]]></title>
+            <description><![CDATA[<article><h1>Old Man's Will - Hard Times - Troubled Man</h1><p>Rock och tung blues med 60/70-tals vibbar från detta Umeband. Grymt!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d32a507202896fe571fbacd8e77f5bd759c2d40e.jpg"></article>]]></description>
+            <link>http://edin.eu/old-mans-will-hard-times-troubled-man/index.html</link>
+            <guid isPermaLink="false">47d2e4d9-d9a7-4a6b-9c80-b29671a17a60</guid>
+            <pubDate>Sun, 21 Aug 2016 12:06:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Blues Pills - Blues Pills]]></title>
             <description><![CDATA[<article><h1>Blues Pills - Blues Pills</h1><p>Mera retro blues-rock, denna gång med amerikansk-fransk-svenska Blues Pills. Plattan kom 2014 men musiken är inte direkt i evolutionens framkant (inte mycket jag lyssnar på är det) så ni får hålla till godo ändå.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/db0c0bbb-ef32-4ffb-b15b-a6708ca9d998.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://edin.eu/kyle-craft-dolls-of-highland/index.html</link>
             <guid isPermaLink="false">8b2b4e8b-cfda-429c-a686-444af28b5c0e</guid>
             <pubDate>Sun, 21 Aug 2016 11:28:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[El Pino and the Volunteers]]></title>
-            <description><![CDATA[<article><h1>El Pino and the Volunteers</h1><p>Amsterdambaserade El Pino and the Volunteers bjuder på riktigt skön poppig rock på detta album. Inte det mest spelade bandet på Spotify men de är värda betydligt fler lyssningar.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/38824b0b-3702-4990-9366-658b8297729b.jpg"></article>]]></description>
-            <link>http://edin.eu/el-pino-and-the-volunteers/index.html</link>
-            <guid isPermaLink="false">2df05bec-7ac5-405a-ad6a-4b0c58f78f29</guid>
-            <pubDate>Sun, 21 Aug 2016 10:59:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
