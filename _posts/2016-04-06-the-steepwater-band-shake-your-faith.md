@@ -1,23 +1,25 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: 'Inget att skämta bort trots lanseringsdatum 1/4. Modern blues-rock, finfin platta.'
-datePublished: '2016-04-06T12:58:31.403Z'
-dateModified: '2016-04-06T12:57:56.628Z'
-title: The Steepwater Band - Shake Your Faith
-author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+datePublished: '2016-08-21T10:59:12.160Z'
 sourcePath: _posts/2016-04-06-the-steepwater-band-shake-your-faith.md
-published: true
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
+author:
+  - name: ''
+    url: ''
+dateModified: '2016-08-21T10:59:11.449Z'
+title: The Steepwater Band - Shake Your Faith
+publisher:
+  name: ''
+  url: ''
+description: >-
+  Inget att skämta bort trots lanseringsdatum 1/4. Modern blues-rock, finfin
+  platta.
+inLanguage: null
+inNav: false
+via: {}
+starred: false
 url: the-steepwater-band-shake-your-faith/index.html
 _type: Article
 
