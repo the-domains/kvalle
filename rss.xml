@@ -4,8 +4,15 @@
         <description><![CDATA[Mlog]]></description>
         <link>http://edin.eu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Aug 2016 14:16:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2016 14:16:35 GMT</lastBuildDate>
         <atom:link href="http://edin.eu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[El Pino and the Volunteers]]></title>
+            <description><![CDATA[<article><h1>El Pino and the Volunteers</h1><p>Amsterdambaserade El Pino and the Volunteers bjuder på riktigt skön poppig rock på detta album. Inte det mest spelade bandet på Spotify men de är värda betydligt fler lyssningar.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/38824b0b-3702-4990-9366-658b8297729b.jpg"></article>]]></description>
+            <link>http://edin.eu/el-pino-and-the-volunteers/index.html</link>
+            <guid isPermaLink="false">2df05bec-7ac5-405a-ad6a-4b0c58f78f29</guid>
+            <pubDate>Sun, 21 Aug 2016 14:16:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[White Denim - Stiff]]></title>
             <description><![CDATA[<article><h1>White Denim - Stiff</h1><p>Lekfullt & funky soul-ish rock med driv på Stiff med White DenimTack till Spotinews som hittade denna åt mig.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7abae927-b9a4-4a2c-ab4e-062648bd83e8.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://edin.eu/wolfmother-victorious/index.html</link>
             <guid isPermaLink="false">bc8e0e0d-c36e-4673-863f-4ce834f3df03</guid>
             <pubDate>Sun, 21 Aug 2016 14:13:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SIMO - Let Love Show The Way]]></title>
-            <description><![CDATA[<article><h1>SIMO - Let Love Show The Way</h1><p>Dags för lite gitarr. Tung bluesrock med SIMO på nysläppta Let Love Show The Way</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/50d83210595ebb19bd1d7cdcc40b0cfb728286f0.jpg"></article>]]></description>
-            <link>http://edin.eu/simo-let-love-show-the-way/index.html</link>
-            <guid isPermaLink="false">d0e545c6-a5e3-494c-b0c9-d31c41b9e3f3</guid>
-            <pubDate>Sun, 21 Aug 2016 12:11:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
