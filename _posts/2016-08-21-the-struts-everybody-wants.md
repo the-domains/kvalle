@@ -1,25 +1,24 @@
 ---
-description: Ösig rock med en sångare om påminner om Freddie M.
-dateModified: '2016-08-21T15:49:29.549Z'
-datePublished: '2016-08-21T15:49:45.300Z'
-title: The Struts - Everybody Wants
-author: []
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-08-21T12:21:55.619Z'
 sourcePath: _posts/2016-08-21-the-struts-everybody-wants.md
+author: []
+via: {}
+dateModified: '2016-08-21T12:21:54.711Z'
+title: The Struts - Everybody Wants
+publisher: {}
+description: ''
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/049fef7d-5175-4921-9a85-823ca8c69de7.jpg)
-
 # The Struts - Everybody Wants
+![The Struts - Everybody Wants](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9f4dc6f-3d47-44c5-ad78-56db90630f5b.jpg)
 
-Ösig rock med en sångare om påminner om Freddie M.
+The Struts - Everybody Wants
 
-Här har vi något för alla som gillar någon form av rock. Lyssna på Spotify [här][0]
+Rock med bra ös, en röst som inte så lite påminner om Freddie M. Spela [här][0]
 
 [0]: https://open.spotify.com/album/5jQD9aAuIOy8LIGkVlgVKq
