@@ -4,8 +4,15 @@
         <description><![CDATA[Mlog]]></description>
         <link>http://edin.eu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Aug 2016 14:17:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2016 14:17:54 GMT</lastBuildDate>
         <atom:link href="http://edin.eu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SIMO - Let Love Show The Way]]></title>
+            <description><![CDATA[<article><h1>SIMO - Let Love Show The Way</h1><p>Dags för lite gitarr. Tung bluesrock med SIMO på nysläppta Let Love Show The Way</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/50d83210595ebb19bd1d7cdcc40b0cfb728286f0.jpg"></article>]]></description>
+            <link>http://edin.eu/simo-let-love-show-the-way/index.html</link>
+            <guid isPermaLink="false">d0e545c6-a5e3-494c-b0c9-d31c41b9e3f3</guid>
+            <pubDate>Sun, 21 Aug 2016 14:17:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Jessica Hernandez & The Deltas - Secret Evil]]></title>
             <description><![CDATA[<article><h1>Jessica Hernandez & The Deltas - Secret Evil</h1><p>Åh! Ett fynd med ett par år på nacken. Ljuvlig svängig Soulpop, bra röst! Secret Evil finns med några bonusspår på Spotify här.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bedc8d6b-edc5-46da-a43c-88772c24ec4e.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://edin.eu/andrew-watt-ghost-in-my-head-ep/index.html</link>
             <guid isPermaLink="false">d990dc55-c5e6-4f62-9887-5f2459148ff0</guid>
             <pubDate>Sun, 21 Aug 2016 14:15:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Royal Republic - Weekend Man]]></title>
-            <description><![CDATA[<article><h1>Royal Republic - Weekend Man</h1><p>Energisk rock på Weekend Man från svenska Royal Republic. Överlever man ett antal "Danko Jones"-ish dängor belönas man med med Atomicsväng, Hellarock och Billy Idol-svep.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d61a4354558470a11f678642ef3b272871f7b1c.jpg"></article>]]></description>
-            <link>http://edin.eu/royal-republic-weekend-man/index.html</link>
-            <guid isPermaLink="false">95a04cca-693a-47cf-a105-bb203c5dcc15</guid>
-            <pubDate>Sun, 21 Aug 2016 14:15:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
