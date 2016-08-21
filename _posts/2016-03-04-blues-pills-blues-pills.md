@@ -1,23 +1,24 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: ''
-datePublished: '2016-03-04T11:49:34.757Z'
-dateModified: '2016-03-04T11:49:33.971Z'
-title: Blues Pills - Blues Pills
-author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+datePublished: '2016-08-21T12:04:08.316Z'
 sourcePath: _posts/2016-03-04-blues-pills-blues-pills.md
-published: true
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
+author:
+  - name: ''
+    url: ''
+via: {}
+dateModified: '2016-08-21T12:04:07.224Z'
+title: Blues Pills - Blues Pills
+publisher: {}
+description: >-
+  Mera retro blues-rock, denna gång med amerikansk-fransk-svenska Blues Pills.
+  Plattan kom 2014 men musiken är inte direkt i evolutionens framkant (inte
+  mycket jag lyssnar på är det) så ni får hålla till godo ändå.
+inLanguage: null
+inNav: false
+starred: false
 url: blues-pills-blues-pills/index.html
 _type: Article
 
