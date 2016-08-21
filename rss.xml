@@ -4,8 +4,15 @@
         <description><![CDATA[Mlog - En musiklogg]]></description>
         <link>http://edin.eu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Aug 2016 10:56:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2016 10:56:44 GMT</lastBuildDate>
         <atom:link href="http://edin.eu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Brian Fallon - Painkillers]]></title>
+            <description><![CDATA[<article><h1>Brian Fallon - Painkillers</h1><p>För alla fans av The Gaslight Anthem behöver han ingen närmare presentation. Här är Brian's nysläppta soloplatta.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ee49f38eaa590418c4727832d49e98fc41d93a7c.jpg"></article>]]></description>
+            <link>http://edin.eu/brian-fallon-painkillers/index.html</link>
+            <guid isPermaLink="false">afc26471-1e3e-4ee4-b114-caabd6ff85e6</guid>
+            <pubDate>Sun, 21 Aug 2016 10:56:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Struts - Everybody Wants]]></title>
             <description><![CDATA[<article><h1>The Struts - Everybody Wants</h1><p>Jag vet inte vad jag ska säga. Efter att ha kämpat med att överleva hockeykörerna kan jag inte annat än att gilla denna platta. Det är ös, snudd på power ballads, Oasis flashbacks, plus en massa annat. Men framförallt en röst som inte ger lite Freddie Mercury vibbar. Britterna är värda en genomlyssning, det finns något för alla. (om man inte får utslag av singalong refränger) Finns på Spotify här.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/201b68a1a774f2a9fa7f8ff276463eb1b0580194.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://edin.eu/playlist-vecka-17/index.html</link>
             <guid isPermaLink="false">e6ae7d7a-b011-4c16-b19a-484584d88c7a</guid>
             <pubDate>Sun, 01 May 2016 20:47:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jessica Hernandez & The Deltas - Secret Evil]]></title>
-            <description><![CDATA[<article><h1>Jessica Hernandez & The Deltas - Secret Evil</h1><p>Åh! Ett fynd med ett par år på nacken. Ljuvlig svängig Soulpop, bra röst! Secret Evil finns med några bonusspår på Spotify här.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bedc8d6b-edc5-46da-a43c-88772c24ec4e.jpg"></article>]]></description>
-            <link>http://edin.eu/jessica-hernandez-and-the-deltas-secret-evil/index.html</link>
-            <guid isPermaLink="false">ffeda3c8-37cc-4570-8028-0df23d2502de</guid>
-            <pubDate>Sun, 01 May 2016 19:41:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
