@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-21T12:11:30.937Z'
+datePublished: '2016-08-21T14:17:38.738Z'
 sourcePath: _posts/2016-05-01-jessica-hernandez-and-the-deltas-secret-evil.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-21T12:11:30.293Z'
+dateModified: '2016-08-21T14:17:38.021Z'
 title: Jessica Hernandez & The Deltas - Secret Evil
 publisher: {}
 description: >-
@@ -25,6 +25,6 @@ _type: Article
 # Jessica Hernandez & The Deltas - Secret Evil
 
 Åh! Ett fynd med ett par år på nacken. Ljuvlig svängig Soulpop, bra röst! Secret Evil finns med några bonusspår på Spotify [här.][0]
-![Jessica Hernandez - Secret Evil](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bedc8d6b-edc5-46da-a43c-88772c24ec4e.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bedc8d6b-edc5-46da-a43c-88772c24ec4e.jpg)
 
 [0]: https://open.spotify.com/album/2U2ZVfiDvXRqjvEQ0GRaIM
