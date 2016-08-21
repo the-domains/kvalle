@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-20T10:40:25.230Z'
+datePublished: '2016-08-21T12:08:13.616Z'
 sourcePath: _posts/2016-03-10-andrew-watt-ghost-in-my-head-ep.md
 inFeed: true
 authors: []
@@ -8,19 +8,15 @@ keywords: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-08-20T10:40:24.593Z'
+via: {}
+dateModified: '2016-08-21T12:08:13.055Z'
 title: Andrew Watt - Ghost In My Head EP
-publisher:
-  name: ''
-  domain: null
-  url: ''
-  favicon: null
+publisher: {}
 description: >-
   4 låtar dansant rock på denna EP. Riktigt jävla bra. Hoppas på en fullängdare
   som uppföljning.
 inLanguage: null
 inNav: false
-via: {}
 starred: false
 url: andrew-watt-ghost-in-my-head-ep/index.html
 _type: Article
