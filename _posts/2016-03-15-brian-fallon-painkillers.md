@@ -1,23 +1,25 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: "För alla fans av The Gaslight Anthem behöver han ingen närmare presentation. Här är Brian's nysläppta soloplatta."
-datePublished: '2016-03-15T20:07:16.471Z'
-dateModified: '2016-03-15T20:06:57.019Z'
-title: Brian Fallon - Painkillers
-author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+datePublished: '2016-08-21T10:56:41.707Z'
 sourcePath: _posts/2016-03-15-brian-fallon-painkillers.md
-published: true
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
+author:
+  - name: ''
+    url: ''
+dateModified: '2016-08-21T10:56:41.019Z'
+title: Brian Fallon - Painkillers
+publisher:
+  name: ''
+  url: ''
+description: >-
+  För alla fans av The Gaslight Anthem behöver han ingen närmare presentation.
+  Här är Brian's nysläppta soloplatta.
+inLanguage: null
+inNav: false
+via: {}
+starred: false
 url: brian-fallon-painkillers/index.html
 _type: Article
 
@@ -25,6 +27,6 @@ _type: Article
 # Brian Fallon - Painkillers
 
 För alla fans av The Gaslight Anthem behöver han ingen närmare presentation. Här är Brian's [nysläppta soloplatta][0].
-![Brian Fallon - Painkillers](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3503e76d-d5bd-4553-8048-456f5800118b.jpg)
+![Brian Fallon - Painkillers](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ee49f38eaa590418c4727832d49e98fc41d93a7c.jpg)
 
 [0]: https://open.spotify.com/album/1t3i8T3vbF9edttYKiEwmB
