@@ -1,9 +1,10 @@
 ---
-datePublished: '2016-08-21T15:16:34.464Z'
+datePublished: '2016-08-21T15:21:39.319Z'
 sourcePath: _posts/2016-08-21-the-struts-everybody-wants.md
+isBasedOnUrl: 'https://open.spotify.com/album/5jQD9aAuIOy8LIGkVlgVKq'
 author: []
 via: {}
-dateModified: '2016-08-21T15:16:32.318Z'
+dateModified: '2016-08-21T15:21:01.026Z'
 title: The Struts - Everybody Wants
 publisher: {}
 description: 'Rock med bra ös, en röst som inte så lite påminner om Freddie M.'
