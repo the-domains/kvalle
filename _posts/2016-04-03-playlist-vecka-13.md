@@ -1,23 +1,23 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: 'Gott & Blandat med ganska nysläppt material denna veckas lista.'
-datePublished: '2016-04-03T11:36:58.817Z'
-dateModified: '2016-04-03T11:36:48.096Z'
-title: Playlist - Vecka 13
-author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+datePublished: '2016-08-21T10:58:53.752Z'
 sourcePath: _posts/2016-04-03-playlist-vecka-13.md
-published: true
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
+author:
+  - name: ''
+    url: ''
+dateModified: '2016-08-21T10:58:53.040Z'
+title: Playlist - Vecka 13
+publisher:
+  name: ''
+  url: ''
+description: Gott & Blandat med ganska nysläppt material på denna veckas lista.
+inLanguage: null
+inNav: false
+via: {}
+starred: false
 url: playlist-vecka-13/index.html
 _type: Article
 
