@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-21T11:28:41.767Z'
+datePublished: '2016-08-21T12:07:51.910Z'
 sourcePath: _posts/2016-03-10-royal-republic-weekend-man.md
 inFeed: true
 authors: []
@@ -8,18 +8,16 @@ keywords: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-08-20T10:39:59.025Z'
+via: {}
+dateModified: '2016-08-21T12:07:50.918Z'
 title: Royal Republic - Weekend Man
-publisher:
-  name: ''
-  url: ''
+publisher: {}
 description: >-
   Energisk rock på Weekend Man från svenska Royal Republic. Överlever man ett
   antal "Danko Jones"-ish dängor belönas man med med Atomicsväng, Hellarock och
   Billy Idol-svep.
 inLanguage: null
 inNav: false
-via: {}
 starred: false
 url: royal-republic-weekend-man/index.html
 _type: Article
