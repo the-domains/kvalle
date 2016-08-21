@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-21T18:09:35.440Z'
+datePublished: '2016-08-21T18:12:37.415Z'
 sourcePath: _posts/2016-08-21-the-struts-everybody-wants.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-21T18:09:31.717Z'
+dateModified: '2016-08-21T18:12:36.687Z'
 title: The Struts - Everybody Wants
 publisher: {}
-description: Ösig rock med en sångare om påminner om Freddie Mercury.
+description: Ösig rock med en sångare om påminner en hel del om Freddie Mercury.
 starred: false
 url: the-struts-everybody-wants/index.html
 _type: Article
@@ -18,8 +18,9 @@ _type: Article
 
 # The Struts - Everybody Wants
 
-Ösig rock med en sångare om påminner om Freddie Mercury.
+Ösig rock med en sångare om påminner en hel del om Freddie Mercury.
 
-Här har vi något för alla som gillar någon form av rock. Lyssna på Spotify [här.][0]
+Här har vi något för alla som gillar någon form av rock. Lyssna på Spotify [här.][0]  
+En ny singel är nyligen släppt också.
 
 [0]: https://open.spotify.com/album/5jQD9aAuIOy8LIGkVlgVKq
