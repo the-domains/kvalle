@@ -1,23 +1,23 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: ''
-datePublished: '2016-03-04T10:55:53.328Z'
-dateModified: '2016-03-04T10:29:02.874Z'
-title: Son Little - Son Little (Deluxe Edition)
-author: []
+datePublished: '2016-08-21T11:59:15.383Z'
 sourcePath: _posts/2016-03-04-son-little-son-little-deluxe-edition.md
-published: true
+inFeed: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+hasPage: true
+keywords: []
+author:
+  - name: ''
+    url: ''
+via: {}
+dateModified: '2016-08-21T11:59:14.937Z'
+title: ' Son Little - Son Little (Deluxe Edition)'
+publisher: {}
+description: >-
+  Ny bekantskap som landade med sitt debut album i höstas. Soul och Rock vibbar.
+  Riktigt skön platta.
+inLanguage: null
+inNav: false
+starred: false
 url: son-little-son-little-deluxe-edition/index.html
 _type: Article
 
