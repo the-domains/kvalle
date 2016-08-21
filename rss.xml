@@ -4,8 +4,15 @@
         <description><![CDATA[Mlog]]></description>
         <link>http://edin.eu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Aug 2016 14:15:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2016 14:15:27 GMT</lastBuildDate>
         <atom:link href="http://edin.eu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Andrew Watt - Ghost In My Head EP]]></title>
+            <description><![CDATA[<article><h1>Andrew Watt - Ghost In My Head EP</h1><p>4 låtar dansant rock på denna EP. Riktigt jävla bra. Hoppas på en fullängdare som uppföljning.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a035d7c0203182bab07732ccc28cd5c0ded5e65f.jpg"></article>]]></description>
+            <link>http://edin.eu/andrew-watt-ghost-in-my-head-ep/index.html</link>
+            <guid isPermaLink="false">d990dc55-c5e6-4f62-9887-5f2459148ff0</guid>
+            <pubDate>Sun, 21 Aug 2016 14:15:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Royal Republic - Weekend Man]]></title>
             <description><![CDATA[<article><h1>Royal Republic - Weekend Man</h1><p>Energisk rock på Weekend Man från svenska Royal Republic. Överlever man ett antal "Danko Jones"-ish dängor belönas man med med Atomicsväng, Hellarock och Billy Idol-svep.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d61a4354558470a11f678642ef3b272871f7b1c.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://edin.eu/battleme-habitual-love-songs/index.html</link>
             <guid isPermaLink="false">eec28459-e2e6-44a5-81bb-f99f32b4178e</guid>
             <pubDate>Sun, 21 Aug 2016 12:10:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[El Pino and the Volunteers]]></title>
-            <description><![CDATA[<article><h1>El Pino and the Volunteers</h1><p>Amsterdambaserade El Pino and the Volunteers bjuder på riktigt skön poppig rock på detta album. Inte det mest spelade bandet på Spotify men de är värda betydligt fler lyssningar.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/38824b0b-3702-4990-9366-658b8297729b.jpg"></article>]]></description>
-            <link>http://edin.eu/el-pino-and-the-volunteers/index.html</link>
-            <guid isPermaLink="false">2df05bec-7ac5-405a-ad6a-4b0c58f78f29</guid>
-            <pubDate>Sun, 21 Aug 2016 12:09:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
