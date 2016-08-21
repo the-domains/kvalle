@@ -4,8 +4,15 @@
         <description><![CDATA[Mlog]]></description>
         <link>http://edin.eu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Aug 2016 12:07:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2016 12:08:16 GMT</lastBuildDate>
         <atom:link href="http://edin.eu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Andrew Watt - Ghost In My Head EP]]></title>
+            <description><![CDATA[<article><h1>Andrew Watt - Ghost In My Head EP</h1><p>4 låtar dansant rock på denna EP. Riktigt jävla bra. Hoppas på en fullängdare som uppföljning.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a035d7c0203182bab07732ccc28cd5c0ded5e65f.jpg"></article>]]></description>
+            <link>http://edin.eu/andrew-watt-ghost-in-my-head-ep/index.html</link>
+            <guid isPermaLink="false">d990dc55-c5e6-4f62-9887-5f2459148ff0</guid>
+            <pubDate>Sun, 21 Aug 2016 12:08:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Royal Republic - Weekend Man]]></title>
             <description><![CDATA[<article><h1>Royal Republic - Weekend Man</h1><p>Energisk rock på Weekend Man från svenska Royal Republic. Överlever man ett antal "Danko Jones"-ish dängor belönas man med med Atomicsväng, Hellarock och Billy Idol-svep.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d61a4354558470a11f678642ef3b272871f7b1c.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://edin.eu/jessica-hernandez-and-the-deltas-secret-evil/index.html</link>
             <guid isPermaLink="false">ffeda3c8-37cc-4570-8028-0df23d2502de</guid>
             <pubDate>Sun, 21 Aug 2016 11:28:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kyle Craft - Dolls of Highland]]></title>
-            <description><![CDATA[<article><h1>Kyle Craft - Dolls of Highland</h1><p>Debutalbum av rock singer-songwriter Kyle Craft, En bra debut, skön platta</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c93d79c1-2e81-4dc5-9737-14cd8e48e677.jpg"></article>]]></description>
-            <link>http://edin.eu/kyle-craft-dolls-of-highland/index.html</link>
-            <guid isPermaLink="false">8b2b4e8b-cfda-429c-a686-444af28b5c0e</guid>
-            <pubDate>Sun, 21 Aug 2016 11:28:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
