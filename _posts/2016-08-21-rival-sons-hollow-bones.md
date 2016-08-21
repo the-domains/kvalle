@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-21T15:28:31.276Z'
+datePublished: '2016-08-21T15:30:01.972Z'
 sourcePath: _posts/2016-08-21-rival-sons-hollow-bones.md
 author: []
 via: {}
-dateModified: '2016-08-21T15:28:21.975Z'
+dateModified: '2016-08-21T15:29:56.900Z'
 title: Rival Sons -Hollow Bones
 publisher: {}
 description: >-
