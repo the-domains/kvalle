@@ -1,17 +1,17 @@
 ---
-datePublished: '2016-08-21T16:07:33.566Z'
+datePublished: '2016-08-21T17:27:12.204Z'
 sourcePath: _posts/2016-08-21-rival-sons-hollow-bones.md
+inFeed: true
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-21T16:07:18.625Z'
+dateModified: '2016-08-21T17:27:11.692Z'
 title: Rival Sons - Hollow Bones
 publisher: {}
 description: Favoritbandet har släppt nytt.
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: rival-sons-hollow-bones/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/02ac0337-832a-433c-9c0d-a5e715f08b2c.jpg)
