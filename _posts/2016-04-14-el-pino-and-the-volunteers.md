@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-21T12:09:56.456Z'
+datePublished: '2016-08-21T14:16:32.888Z'
 sourcePath: _posts/2016-04-14-el-pino-and-the-volunteers.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-21T12:09:55.915Z'
+dateModified: '2016-08-21T14:16:31.994Z'
 title: El Pino and the Volunteers
 publisher: {}
 description: >-
@@ -26,6 +26,6 @@ _type: Article
 # El Pino and the Volunteers
 
 Amsterdambaserade El Pino and the Volunteers bjuder på riktigt skön poppig rock på [detta album][0]. Inte det mest spelade bandet på Spotify men de är värda betydligt fler lyssningar.
-![El Pino and the Volunteers](https://the-grid-user-content.s3-us-west-2.amazonaws.com/38824b0b-3702-4990-9366-658b8297729b.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/38824b0b-3702-4990-9366-658b8297729b.jpg)
 
 [0]: https://open.spotify.com/album/0qoDtePqYQColmu8Cpxb1k
