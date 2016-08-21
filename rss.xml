@@ -4,8 +4,15 @@
         <description><![CDATA[Mlog - En musiklogg]]></description>
         <link>http://edin.eu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Aug 2016 10:58:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2016 10:58:56 GMT</lastBuildDate>
         <atom:link href="http://edin.eu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Playlist - Vecka 13]]></title>
+            <description><![CDATA[<article><h1>Playlist - Vecka 13</h1><p>Gott & Blandat med ganska nysläppt material på denna veckas lista.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3be846a-220d-49e9-b9c7-4f1b161181e6.png"></article>]]></description>
+            <link>http://edin.eu/playlist-vecka-13/index.html</link>
+            <guid isPermaLink="false">9235fc99-79c7-4e54-999e-fd96d91feafe</guid>
+            <pubDate>Sun, 21 Aug 2016 10:58:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[White Denim - Stiff]]></title>
             <description><![CDATA[<article><h1>White Denim - Stiff</h1><p>Lekfullt & funky soul-ish rock med driv på Stiff med White Denim Tack till Spotinews som hittade denna åt mig.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7abae927-b9a4-4a2c-ab4e-062648bd83e8.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://edin.eu/playlist-vecka-15/index.html</link>
             <guid isPermaLink="false">4b6e7bef-42c8-4391-b3a3-20d8460179ab</guid>
             <pubDate>Sat, 20 Aug 2016 10:30:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hypnos - Cold Winds]]></title>
-            <description><![CDATA[<article><h1>Hypnos - Cold Winds</h1><p>Retro hårdrock från svenska Hypnos på plattan Cold Winds.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a09e21f-5533-4570-8cc6-89bdc251eacb.jpg"></article>]]></description>
-            <link>http://edin.eu/hypnos-cold-winds/index.html</link>
-            <guid isPermaLink="false">0695e140-e2f7-447e-bb62-ee74628a1fd0</guid>
-            <pubDate>Tue, 10 May 2016 06:54:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
