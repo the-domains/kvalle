@@ -1,23 +1,26 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: "Amsterdambaserade El Pino and the Volunteers bjuder på riktigt skön poppig rock.\_"
-datePublished: '2016-04-14T20:55:58.395Z'
-dateModified: '2016-04-14T20:43:55.648Z'
-title: El Pino and the Volunteers
-author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+datePublished: '2016-08-21T10:59:32.219Z'
 sourcePath: _posts/2016-04-14-el-pino-and-the-volunteers.md
-published: true
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
+author:
+  - name: ''
+    url: ''
+dateModified: '2016-08-21T10:59:31.572Z'
+title: El Pino and the Volunteers
+publisher:
+  name: ''
+  url: ''
+description: >-
+  Amsterdambaserade El Pino and the Volunteers bjuder på riktigt skön poppig
+  rock på detta album. Inte det mest spelade bandet på Spotify men de är värda
+  betydligt fler lyssningar.
+inLanguage: null
+inNav: false
+via: {}
+starred: false
 url: el-pino-and-the-volunteers/index.html
 _type: Article
 
