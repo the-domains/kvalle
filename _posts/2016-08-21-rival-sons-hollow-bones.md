@@ -1,9 +1,10 @@
 ---
-datePublished: '2016-08-21T15:34:32.234Z'
+datePublished: '2016-08-21T15:40:43.735Z'
 sourcePath: _posts/2016-08-21-rival-sons-hollow-bones.md
+isBasedOnUrl: 'http://edin.eu/rival-sons-hollow-bones'
 author: []
 via: {}
-dateModified: '2016-08-21T15:34:21.148Z'
+dateModified: '2016-08-21T15:40:43.159Z'
 title: Rival Sons - Hollow Bones
 publisher: {}
 description: >-
