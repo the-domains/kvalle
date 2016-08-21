@@ -4,8 +4,15 @@
         <description><![CDATA[Mlog - En musiklogg]]></description>
         <link>http://edin.eu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Aug 2016 10:58:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2016 10:59:14 GMT</lastBuildDate>
         <atom:link href="http://edin.eu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Steepwater Band - Shake Your Faith]]></title>
+            <description><![CDATA[<article><h1>The Steepwater Band - Shake Your Faith</h1><p>Inget att skämta bort trots lanseringsdatum 1/4. Modern blues-rock, finfin platta.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4997edf-b771-4497-8830-b46f6a54a4bd.jpg"></article>]]></description>
+            <link>http://edin.eu/the-steepwater-band-shake-your-faith/index.html</link>
+            <guid isPermaLink="false">3214972b-e3d9-45dd-b605-c872a4164327</guid>
+            <pubDate>Sun, 21 Aug 2016 10:59:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Playlist - Vecka 13]]></title>
             <description><![CDATA[<article><h1>Playlist - Vecka 13</h1><p>Gott & Blandat med ganska nysläppt material på denna veckas lista.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3be846a-220d-49e9-b9c7-4f1b161181e6.png"></article>]]></description>
@@ -15,7 +22,7 @@
         </item>
         <item>
             <title><![CDATA[White Denim - Stiff]]></title>
-            <description><![CDATA[<article><h1>White Denim - Stiff</h1><p>Lekfullt & funky soul-ish rock med driv på Stiff med White Denim Tack till Spotinews som hittade denna åt mig.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7abae927-b9a4-4a2c-ab4e-062648bd83e8.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>White Denim - Stiff</h1><p>Lekfullt & funky soul-ish rock med driv på Stiff med White DenimTack till Spotinews som hittade denna åt mig.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7abae927-b9a4-4a2c-ab4e-062648bd83e8.jpg"></article>]]></description>
             <link>http://edin.eu/white-denim-stiff/index.html</link>
             <guid isPermaLink="false">3916be34-e043-4940-9b01-0cc35e78e959</guid>
             <pubDate>Sun, 21 Aug 2016 10:58:34 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://edin.eu/retromastare-vintage-trouble/index.html</link>
             <guid isPermaLink="false">37ca2c7a-0b44-48c4-8a34-22c505e7033b</guid>
             <pubDate>Sat, 20 Aug 2016 10:39:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Playlist - Vecka 15]]></title>
-            <description><![CDATA[<article><h1>Playlist - Vecka 15</h1><p>Avslutar dagen med att publicera veckans spellista. Imorgon bär det av till Uppsala för Ebbot Lundberg & The Indigo Children och syrrans 40-års kalas.</p></article>]]></description>
-            <link>http://edin.eu/playlist-vecka-15/index.html</link>
-            <guid isPermaLink="false">4b6e7bef-42c8-4391-b3a3-20d8460179ab</guid>
-            <pubDate>Sat, 20 Aug 2016 10:30:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
