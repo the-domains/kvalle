@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-21T12:09:20.922Z'
+datePublished: '2016-08-21T14:16:14.116Z'
 sourcePath: _posts/2016-03-30-white-denim-stiff.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-21T12:09:20.347Z'
+dateModified: '2016-08-21T14:16:12.371Z'
 title: White Denim - Stiff
 publisher: {}
 description: >-
