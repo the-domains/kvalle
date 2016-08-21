@@ -4,13 +4,16 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Här har vi en platta där en producent till en modern spagettiwestern skulle kunna hitta potentiella soundtracks. Svävande cosy.
-datePublished: '2016-04-24T19:25:55.251Z'
-dateModified: '2016-04-24T11:41:18.898Z'
+description: >-
+  Här har vi en platta där en producent till en modern spagettiwestern skulle
+  kunna hitta potentiella soundtracks. Svävande cosy.
+datePublished: '2016-08-21T11:28:25.082Z'
+dateModified: '2016-04-24T19:26:01.873Z'
 title: Escondido - Walking With a Stranger
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-04-24-escondido-walking-with-a-stranger.md
 authors: []
 publisher:
   name: null
@@ -18,8 +21,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-24-escondido-walking-with-a-stranger.md
-published: true
 url: escondido-walking-with-a-stranger/index.html
 _type: Article
 
