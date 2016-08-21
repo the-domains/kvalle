@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-21T17:56:10.715Z'
+datePublished: '2016-08-21T18:15:28.990Z'
 sourcePath: _posts/2016-08-21-rival-sons-hollow-bones.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-21T17:53:55.929Z'
+dateModified: '2016-08-21T18:15:24.833Z'
 title: Rival Sons - Hollow Bones
 publisher: {}
-description: Favoritbandet har släppt nytt.
+description: Favoritbandet har släppt nytt!
 starred: false
 url: rival-sons-hollow-bones/index.html
 _type: Article
@@ -18,8 +18,8 @@ _type: Article
 
 # Rival Sons - Hollow Bones
 
-Favoritbandet har släppt nytt.
+Favoritbandet har släppt nytt!
 
-Den moderna versionen av Led Zeppelin har [släppt nytt][0], som vanligt fullkomligt lysande. Favoritspår är Hollow Bones Pt. 2 och Black Coffee som båda spelades in live i studion under en hel del improvisation.
+Den moderna versionen av Led Zeppelin har [släppt nytt][0], som vanligt fullkomligt lysande. Favoritspår är Hollow Bones Pt. 2 och Black Coffee som båda spelades in live i studion under en hel del improvisation. Lyssna gärna på versionen med track-by-track commentary.
 
 [0]: https://open.spotify.com/album/7hKJMKE01FvUJEVxY8bBOT
