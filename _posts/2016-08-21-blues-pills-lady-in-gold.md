@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-21T17:56:29.766Z'
+datePublished: '2016-08-21T18:18:03.450Z'
 sourcePath: _posts/2016-08-21-blues-pills-lady-in-gold.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-21T17:53:55.932Z'
+dateModified: '2016-08-21T18:17:58.321Z'
 title: Blues Pills - Lady in Gold
 publisher: {}
-description: '2016-08-21, Nytt från Blues Pills'
+description: '2016-08-21, Nytt från Blues Pills, som tonat ner bluesen något.'
 starred: false
 url: blues-pills-lady-in-gold/index.html
 _type: Article
@@ -18,8 +18,8 @@ _type: Article
 
 # Blues Pills - Lady in Gold
 
-2016-08-21, Nytt från Blues Pills
+2016-08-21, Nytt från Blues Pills, som tonat ner bluesen något.
 
-Två år efter förra släppet kommer här [Lady in Gold][0], trevlig lyssning
+Två år efter förra släppet kommer här [Lady in Gold][0], trevlig lyssning. Fina sånginsatser.
 
 [0]: https://open.spotify.com/album/1QvNfeZTKXDTT9KfHHHhmw
