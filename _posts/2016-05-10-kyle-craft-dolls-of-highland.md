@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Debutalbum av rock singer-songwriter Kyle Craft, En bra debut, skön platta'
-datePublished: '2016-05-10T06:47:30.757Z'
-dateModified: '2016-05-10T06:47:10.726Z'
+datePublished: '2016-08-21T11:28:03.112Z'
+dateModified: '2016-05-10T06:47:39.195Z'
 title: Kyle Craft - Dolls of Highland
 author: []
+sourcePath: _posts/2016-05-10-kyle-craft-dolls-of-highland.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-10-kyle-craft-dolls-of-highland.md
 url: kyle-craft-dolls-of-highland/index.html
 _type: Article
 
