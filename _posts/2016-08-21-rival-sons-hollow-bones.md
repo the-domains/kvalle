@@ -1,13 +1,13 @@
 ---
-description: Favoritbandet har släppt nytt.
-dateModified: '2016-08-21T15:54:44.278Z'
-datePublished: '2016-08-21T15:54:58.319Z'
-title: Rival Sons - Hollow Bones
-author: []
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-08-21T16:07:33.566Z'
 sourcePath: _posts/2016-08-21-rival-sons-hollow-bones.md
+author: []
+via: {}
+dateModified: '2016-08-21T16:07:18.625Z'
+title: Rival Sons - Hollow Bones
+publisher: {}
+description: Favoritbandet har släppt nytt.
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
@@ -20,4 +20,6 @@ _type: MediaObject
 
 Favoritbandet har släppt nytt.
 
-Den moderna versionen av Led Zeppelin har släppt nytt, som vanligt fullkomligt lysande. Favoritspår är Hollow Bones Pt. 2 och Black Coffee som båda spelades in live i studion under en hel del improvisation.
+Den moderna versionen av Led Zeppelin har [släppt nytt][0], som vanligt fullkomligt lysande. Favoritspår är Hollow Bones Pt. 2 och Black Coffee som båda spelades in live i studion under en hel del improvisation.
+
+[0]: https://open.spotify.com/album/7hKJMKE01FvUJEVxY8bBOT
