@@ -1,23 +1,25 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: 'Lite skitig folk-rock, ganska eget sound. Bra amerikanskt skit helt enkelt.'
-datePublished: '2016-04-14T20:55:58.387Z'
-dateModified: '2016-04-14T20:55:34.807Z'
-title: Battleme - Habitual Love Songs
-author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+datePublished: '2016-08-21T12:10:19.436Z'
 sourcePath: _posts/2016-04-14-battleme-habitual-love-songs.md
-published: true
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
+author:
+  - name: ''
+    url: ''
+dateModified: '2016-08-21T12:10:18.780Z'
+title: Battleme - Habitual Love Songs
+publisher:
+  name: ''
+  url: ''
+description: >-
+  Lite skitig folk-rock, ganska eget sound. Bra amerikanskt skit helt enkelt.
+  Hittas på Spotify här minsann
+inLanguage: null
+inNav: false
+via: {}
+starred: false
 url: battleme-habitual-love-songs/index.html
 _type: Article
 
