@@ -4,8 +4,15 @@
         <description><![CDATA[Mlog - En musiklogg]]></description>
         <link>http://edin.eu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 10:40:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2016 10:55:26 GMT</lastBuildDate>
         <atom:link href="http://edin.eu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Playlist - Vecka 10]]></title>
+            <description><![CDATA[<article><h1>Playlist - Vecka 10</h1><p>Yippie kay yay mf! Duka undan tacosen, stoppa ner handen i chipspåsen nu så kör vi.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b6e8851592e895046e422806107d15e845fa275f.png"></article>]]></description>
+            <link>http://edin.eu/playlist-vecka-10/index.html</link>
+            <guid isPermaLink="false">20be40b4-db0b-4a1e-93d9-7d60f0f8ac47</guid>
+            <pubDate>Sun, 21 Aug 2016 10:55:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Andrew Watt - Ghost In My Head EP]]></title>
             <description><![CDATA[<article><h1>Andrew Watt - Ghost In My Head EP</h1><p>4 låtar dansant rock på denna EP. Riktigt jävla bra. Hoppas på en fullängdare som uppföljning.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a035d7c0203182bab07732ccc28cd5c0ded5e65f.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://edin.eu/simo-let-love-show-the-way/index.html</link>
             <guid isPermaLink="false">d0e545c6-a5e3-494c-b0c9-d31c41b9e3f3</guid>
             <pubDate>Sun, 01 May 2016 17:18:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Escondido - Walking With a Stranger]]></title>
-            <description><![CDATA[<article><h1>Escondido - Walking With a Stranger</h1><p>Här har vi en platta där en producent till en modern spagettiwestern skulle kunna hitta potentiella soundtracks. Svävande cosy.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/50d67d0a-3f42-4f9d-b563-2bda5fa7fb51.jpg"></article>]]></description>
-            <link>http://edin.eu/escondido-walking-with-a-stranger/index.html</link>
-            <guid isPermaLink="false">f5742567-b049-417d-9367-dd844e2e9720</guid>
-            <pubDate>Sun, 24 Apr 2016 19:25:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
