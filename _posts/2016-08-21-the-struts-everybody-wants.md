@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-21T11:12:04.436Z'
+datePublished: '2016-08-21T12:13:03.802Z'
 sourcePath: _posts/2016-08-21-the-struts-everybody-wants.md
 author: []
 via: {}
-dateModified: '2016-08-21T11:12:03.868Z'
+dateModified: '2016-08-21T12:13:02.305Z'
 title: ''
 publisher: {}
 description: The Struts - Everybody Wants
@@ -14,7 +14,7 @@ inNav: false
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9f4dc6f-3d47-44c5-ad78-56db90630f5b.jpg)
+![The Struts - Everybody Wants](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9f4dc6f-3d47-44c5-ad78-56db90630f5b.jpg)
 
 The Struts - Everybody Wants
 
