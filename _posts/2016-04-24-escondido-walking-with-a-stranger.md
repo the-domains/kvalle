@@ -1,25 +1,22 @@
 ---
+datePublished: '2016-08-21T14:17:08.361Z'
+sourcePath: _posts/2016-04-24-escondido-walking-with-a-stranger.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: false
-inLanguage: null
 keywords: []
-description: >-
-  Här har vi en platta där en producent till en modern spagettiwestern skulle
-  kunna hitta potentiella soundtracks. Svävande cosy.
-datePublished: '2016-08-21T11:28:25.082Z'
-dateModified: '2016-04-24T19:26:01.873Z'
-title: Escondido - Walking With a Stranger
 author:
   - name: ''
     url: ''
-sourcePath: _posts/2016-04-24-escondido-walking-with-a-stranger.md
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+via: {}
+dateModified: '2016-08-21T14:17:07.465Z'
+title: Escondido - Walking With a Stranger
+publisher: {}
+description: >-
+  Här har vi en platta där en producent till en modern spagettiwestern skulle
+  kunna hitta potentiella soundtracks. Svävande cosy.
+inLanguage: null
+inNav: false
 starred: false
 url: escondido-walking-with-a-stranger/index.html
 _type: Article
@@ -28,6 +25,6 @@ _type: Article
 # Escondido - Walking With a Stranger
 
 Här har vi [en platta][0] där en producent till en modern spagettiwestern skulle kunna hitta potentiella soundtracks. Svävande cosy.
-![Escondido - Walking With a Stranger](https://the-grid-user-content.s3-us-west-2.amazonaws.com/50d67d0a-3f42-4f9d-b563-2bda5fa7fb51.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/50d67d0a-3f42-4f9d-b563-2bda5fa7fb51.jpg)
 
 [0]: https://open.spotify.com/album/4LcI0UJmkd717mGgygsIfx
