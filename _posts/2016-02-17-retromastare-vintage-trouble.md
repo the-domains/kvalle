@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-20T10:39:02.018Z'
+datePublished: '2016-08-21T11:26:05.358Z'
 sourcePath: _posts/2016-02-17-retromastare-vintage-trouble.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-20T10:39:01.508Z'
+dateModified: '2016-08-21T11:26:04.842Z'
 title: Retromästare - Vintage Trouble
 publisher: {}
 description: >-
