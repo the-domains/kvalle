@@ -4,8 +4,15 @@
         <description><![CDATA[Mlog]]></description>
         <link>http://edin.eu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Aug 2016 14:23:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2016 14:23:54 GMT</lastBuildDate>
         <atom:link href="http://edin.eu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Old Man's Will - Hard Times - Troubled Man]]></title>
+            <description><![CDATA[<article><h1>Old Man's Will - Hard Times - Troubled Man</h1><p>Rock och tung blues med 60/70-tals vibbar från detta Umeband. Grymt!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d32a507202896fe571fbacd8e77f5bd759c2d40e.jpg"></article>]]></description>
+            <link>http://edin.eu/old-mans-will-hard-times-troubled-man/index.html</link>
+            <guid isPermaLink="false">47d2e4d9-d9a7-4a6b-9c80-b29671a17a60</guid>
+            <pubDate>Sun, 21 Aug 2016 14:23:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Retromästare - Vintage Trouble]]></title>
             <description><![CDATA[<article><h1>Retromästare - Vintage Trouble</h1><p>Fick detta band framdukat när Storsjöyran presenterade klara artister till sommarens Yra. De är förmodligen vad man kan hälla ur en blender efter att har matat den med 60-70 tals rock, soul, rhythm & blues.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1b944cf402e3919f6e9545ef200696d8/croprotate.jpg?cropheight=1336&cropwidth=1400&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F523c9671-e9c9-4d46-96a4-ad7ee916d924.jpg&x=0&y=33"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://edin.eu/the-wild-feathers-lonely-is-a-lifetime/index.html</link>
             <guid isPermaLink="false">98876b5b-1556-477a-929d-7073d342d83b</guid>
             <pubDate>Sun, 21 Aug 2016 14:15:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Brian Fallon - Painkillers]]></title>
-            <description><![CDATA[<article><h1>Brian Fallon - Painkillers</h1><p>För alla fans av The Gaslight Anthem behöver han ingen närmare presentation. Här är Brian's nysläppta soloplatta.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ee49f38eaa590418c4727832d49e98fc41d93a7c.jpg"></article>]]></description>
-            <link>http://edin.eu/brian-fallon-painkillers/index.html</link>
-            <guid isPermaLink="false">afc26471-1e3e-4ee4-b114-caabd6ff85e6</guid>
-            <pubDate>Sun, 21 Aug 2016 14:15:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
