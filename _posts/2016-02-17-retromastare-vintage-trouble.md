@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-21T11:48:52.274Z'
+datePublished: '2016-08-21T14:23:31.707Z'
 sourcePath: _posts/2016-02-17-retromastare-vintage-trouble.md
 inFeed: true
 authors: []
@@ -9,15 +9,13 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-21T11:48:51.731Z'
+dateModified: '2016-08-21T14:23:30.997Z'
 title: Retromästare - Vintage Trouble
 publisher: {}
 description: >-
   Fick detta band framdukat när Storsjöyran presenterade klara artister till
   sommarens Yra. De är förmodligen vad man kan hälla ur en blender efter att har
-  matat den med 60-70 tals rock, soul, rhythm & blues. Med högkvalitativa
-  ingredienser i form av en grym röst och kompetenta musiker blir resultatet
-  riktigt bra. Toppa med ett finfint ljud.
+  matat den med 60-70 tals rock, soul, rhythm & blues.
 inLanguage: null
 inNav: false
 starred: false
@@ -29,7 +27,9 @@ _type: Article
 
 # Retromästare - Vintage Trouble
 
-Fick detta band framdukat när Storsjöyran presenterade klara artister till sommarens Yra. De är förmodligen vad man kan hälla ur en blender efter att har matat den med 60-70 tals rock, soul, rhythm & blues. Med högkvalitativa ingredienser i form av en grym röst och kompetenta musiker blir resultatet riktigt bra. Toppa med ett finfint ljud.
+Fick detta band framdukat när Storsjöyran presenterade klara artister till sommarens Yra. De är förmodligen vad man kan hälla ur en blender efter att har matat den med 60-70 tals rock, soul, rhythm & blues.
+
+Med högkvalitativa ingredienser i form av en grym röst och kompetenta musiker blir resultatet riktigt bra. Toppa med ett finfint ljud.
 
 Blir prio på Yran.
 
