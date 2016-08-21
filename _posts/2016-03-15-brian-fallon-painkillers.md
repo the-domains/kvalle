@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-21T10:57:25.875Z'
+datePublished: '2016-08-21T12:08:35.395Z'
 sourcePath: _posts/2016-03-15-brian-fallon-painkillers.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-21T10:57:25.115Z'
+dateModified: '2016-08-21T12:08:34.831Z'
 title: Brian Fallon - Painkillers
 publisher: {}
 description: >-
