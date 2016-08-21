@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-21T11:45:38.163Z'
+datePublished: '2016-08-21T11:48:52.274Z'
 sourcePath: _posts/2016-02-17-retromastare-vintage-trouble.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-21T11:45:37.560Z'
+dateModified: '2016-08-21T11:48:51.731Z'
 title: Retromästare - Vintage Trouble
 publisher: {}
 description: >-
@@ -25,7 +25,7 @@ url: retromastare-vintage-trouble/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/523c9671-e9c9-4d46-96a4-ad7ee916d924.jpg)
+![Vintage Trouble - 1 Hopeful Rd.](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1b944cf402e3919f6e9545ef200696d8/croprotate.jpg?cropheight=1336&cropwidth=1400&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F523c9671-e9c9-4d46-96a4-ad7ee916d924.jpg&x=0&y=33)
 
 # Retromästare - Vintage Trouble
 
