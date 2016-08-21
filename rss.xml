@@ -4,8 +4,15 @@
         <description><![CDATA[Mlog]]></description>
         <link>http://edin.eu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Aug 2016 14:14:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2016 14:14:51 GMT</lastBuildDate>
         <atom:link href="http://edin.eu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Old Man's Will - Hard Times - Troubled Man]]></title>
+            <description><![CDATA[<article><h1>Old Man's Will - Hard Times - Troubled Man</h1><p>Rock och tung blues med 60/70-tals vibbar från detta Umeband. Grymt!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d32a507202896fe571fbacd8e77f5bd759c2d40e.jpg"></article>]]></description>
+            <link>http://edin.eu/old-mans-will-hard-times-troubled-man/index.html</link>
+            <guid isPermaLink="false">47d2e4d9-d9a7-4a6b-9c80-b29671a17a60</guid>
+            <pubDate>Sun, 21 Aug 2016 14:14:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Blues Pills - Blues Pills]]></title>
             <description><![CDATA[<article><h1>Blues Pills - Blues Pills</h1><p>Mera retro blues-rock, denna gång med amerikansk-fransk-svenska Blues Pills. Plattan kom 2014 men musiken är inte direkt i evolutionens framkant (inte mycket jag lyssnar på är det) så ni får hålla till godo ändå.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/db0c0bbb-ef32-4ffb-b15b-a6708ca9d998.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://edin.eu/the-steepwater-band-shake-your-faith/index.html</link>
             <guid isPermaLink="false">3214972b-e3d9-45dd-b605-c872a4164327</guid>
             <pubDate>Sun, 21 Aug 2016 12:09:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[White Denim - Stiff]]></title>
-            <description><![CDATA[<article><h1>White Denim - Stiff</h1><p>Lekfullt & funky soul-ish rock med driv på Stiff med White DenimTack till Spotinews som hittade denna åt mig.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7abae927-b9a4-4a2c-ab4e-062648bd83e8.jpg"></article>]]></description>
-            <link>http://edin.eu/white-denim-stiff/index.html</link>
-            <guid isPermaLink="false">3916be34-e043-4940-9b01-0cc35e78e959</guid>
-            <pubDate>Sun, 21 Aug 2016 12:09:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
