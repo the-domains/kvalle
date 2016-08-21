@@ -4,8 +4,15 @@
         <description><![CDATA[Mlog - En musiklogg]]></description>
         <link>http://edin.eu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Aug 2016 11:28:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2016 11:28:44 GMT</lastBuildDate>
         <atom:link href="http://edin.eu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Royal Republic - Weekend Man]]></title>
+            <description><![CDATA[<article><h1>Royal Republic - Weekend Man</h1><p>Energisk rock på Weekend Man från svenska Royal Republic. Överlever man ett antal "Danko Jones"-ish dängor belönas man med med Atomicsväng, Hellarock och Billy Idol-svep.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d61a4354558470a11f678642ef3b272871f7b1c.jpg"></article>]]></description>
+            <link>http://edin.eu/royal-republic-weekend-man/index.html</link>
+            <guid isPermaLink="false">95a04cca-693a-47cf-a105-bb203c5dcc15</guid>
+            <pubDate>Sun, 21 Aug 2016 11:28:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Escondido - Walking With a Stranger]]></title>
             <description><![CDATA[<article><h1>Escondido - Walking With a Stranger</h1><p>Här har vi en platta där en producent till en modern spagettiwestern skulle kunna hitta potentiella soundtracks. Svävande cosy.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/50d67d0a-3f42-4f9d-b563-2bda5fa7fb51.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://edin.eu/brian-fallon-painkillers/index.html</link>
             <guid isPermaLink="false">afc26471-1e3e-4ee4-b114-caabd6ff85e6</guid>
             <pubDate>Sun, 21 Aug 2016 10:57:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Andrew Watt - Ghost In My Head EP]]></title>
-            <description><![CDATA[<article><h1>Andrew Watt - Ghost In My Head EP</h1><p>4 låtar dansant rock på denna EP. Riktigt jävla bra. Hoppas på en fullängdare som uppföljning.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a035d7c0203182bab07732ccc28cd5c0ded5e65f.jpg"></article>]]></description>
-            <link>http://edin.eu/andrew-watt-ghost-in-my-head-ep/index.html</link>
-            <guid isPermaLink="false">d990dc55-c5e6-4f62-9887-5f2459148ff0</guid>
-            <pubDate>Sat, 20 Aug 2016 10:40:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
