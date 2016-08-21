@@ -1,23 +1,26 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: 'Ont om genomgående bra album denna vecka. Lyckades dock skramla ihop till en ok spellista. En klassiker i orginal med Jimmy Webb, resten är relativt nytt även om Iggy Pop'
-datePublished: '2016-03-26T17:56:49.946Z'
-dateModified: '2016-03-26T17:56:36.255Z'
-title: Playlist - Vecka 12
-author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+datePublished: '2016-08-21T10:57:51.053Z'
 sourcePath: _posts/2016-03-26-playlist-vecka-12.md
-published: true
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
+author:
+  - name: ''
+    url: ''
+dateModified: '2016-08-21T10:57:49.906Z'
+title: Playlist - Vecka 12
+publisher:
+  name: ''
+  url: ''
+description: >-
+  Ont om genomgående bra album denna vecka. Lyckades dock skramla ihop till en
+  ok spellista. En klassiker i orginal med Jimmy Webb, resten är relativt nytt
+  även om Iggy Pop känns rätt gammal på sin nya platta.
+inLanguage: null
+inNav: false
+via: {}
+starred: false
 url: playlist-vecka-12/index.html
 _type: Article
 
