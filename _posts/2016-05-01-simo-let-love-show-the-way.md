@@ -1,25 +1,25 @@
 ---
+datePublished: '2016-08-21T12:11:47.255Z'
+sourcePath: _posts/2016-05-01-simo-let-love-show-the-way.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: false
-inLanguage: null
 keywords: []
-description: Dags för lite gitarr. Tung bluesrock med SIMO på nysläppta Let Love Show The Way
-datePublished: '2016-05-01T17:18:00.034Z'
-dateModified: '2016-05-01T17:17:43.530Z'
-title: SIMO - Let Love Show The Way
 author:
   - name: ''
     url: ''
-authors: []
+dateModified: '2016-08-21T12:11:46.590Z'
+title: SIMO - Let Love Show The Way
 publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+  name: ''
+  url: ''
+description: >-
+  Dags för lite gitarr. Tung bluesrock med SIMO på nysläppta Let Love Show The
+  Way
+inLanguage: null
+inNav: false
+via: {}
 starred: false
-sourcePath: _posts/2016-05-01-simo-let-love-show-the-way.md
-published: true
 url: simo-let-love-show-the-way/index.html
 _type: Article
 
@@ -27,6 +27,6 @@ _type: Article
 # SIMO - Let Love Show The Way
 
 Dags för lite gitarr. Tung bluesrock med SIMO på nysläppta [Let Love Show The Way][0]
-![SIMO - Let Love Show The Way](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b480af58-c112-47d7-a838-999838cd4ce8.jpg)
+![SIMO - Let Love Show The Way](https://s3-us-west-2.amazonaws.com/the-grid-img/p/50d83210595ebb19bd1d7cdcc40b0cfb728286f0.jpg)
 
 [0]: https://open.spotify.com/album/5345fSxOlmIjpd3EhdaguE
