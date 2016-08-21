@@ -4,8 +4,15 @@
         <description><![CDATA[Mlog]]></description>
         <link>http://edin.eu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Aug 2016 12:11:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2016 14:13:52 GMT</lastBuildDate>
         <atom:link href="http://edin.eu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wolfmother - Victorious]]></title>
+            <description><![CDATA[<article><h1>Wolfmother - Victorious</h1><p>10 år efter den självbetitlade debuten kommer en ny platta. Efter en snabb genomlysning konstaterar jag att jag saknar käftsmällar som Woman på deras debutplatta men likväl så finns det en del godbitar.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2719947b-3107-417e-b3f2-b4c1f5e6504d.jpg"></article>]]></description>
+            <link>http://edin.eu/wolfmother-victorious/index.html</link>
+            <guid isPermaLink="false">bc8e0e0d-c36e-4673-863f-4ce834f3df03</guid>
+            <pubDate>Sun, 21 Aug 2016 14:13:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[SIMO - Let Love Show The Way]]></title>
             <description><![CDATA[<article><h1>SIMO - Let Love Show The Way</h1><p>Dags för lite gitarr. Tung bluesrock med SIMO på nysläppta Let Love Show The Way</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/50d83210595ebb19bd1d7cdcc40b0cfb728286f0.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://edin.eu/brian-fallon-painkillers/index.html</link>
             <guid isPermaLink="false">afc26471-1e3e-4ee4-b114-caabd6ff85e6</guid>
             <pubDate>Sun, 21 Aug 2016 12:08:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Andrew Watt - Ghost In My Head EP]]></title>
-            <description><![CDATA[<article><h1>Andrew Watt - Ghost In My Head EP</h1><p>4 låtar dansant rock på denna EP. Riktigt jävla bra. Hoppas på en fullängdare som uppföljning.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a035d7c0203182bab07732ccc28cd5c0ded5e65f.jpg"></article>]]></description>
-            <link>http://edin.eu/andrew-watt-ghost-in-my-head-ep/index.html</link>
-            <guid isPermaLink="false">d990dc55-c5e6-4f62-9887-5f2459148ff0</guid>
-            <pubDate>Sun, 21 Aug 2016 12:08:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
