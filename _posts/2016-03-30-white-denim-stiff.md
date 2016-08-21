@@ -1,23 +1,25 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: 'Lekfullt & funky soul-ish rock med driv på Stiff med White DenimTack till Spotinews som hittade denna åt mig.'
-datePublished: '2016-03-30T12:57:08.361Z'
-dateModified: '2016-03-30T12:57:03.370Z'
-title: White Denim - Stiff
-author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+datePublished: '2016-08-21T10:58:34.472Z'
 sourcePath: _posts/2016-03-30-white-denim-stiff.md
-published: true
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
+author:
+  - name: ''
+    url: ''
+dateModified: '2016-08-21T10:58:33.551Z'
+title: White Denim - Stiff
+publisher:
+  name: ''
+  url: ''
+description: >-
+  Lekfullt & funky soul-ish rock med driv på Stiff med White Denim Tack till
+  Spotinews som hittade denna åt mig.
+inLanguage: null
+inNav: false
+via: {}
+starred: false
 url: white-denim-stiff/index.html
 _type: Article
 
