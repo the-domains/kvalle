@@ -19,6 +19,8 @@ analytics:
   google: UA-74187173-1
   facebook: null
   twitter: null
+author:
+  name: Magnus Edin
 name: Mlog By ME
 cta:
   domain: null
