@@ -4,8 +4,15 @@
         <description><![CDATA[Mlog]]></description>
         <link>http://edin.eu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Aug 2016 14:14:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2016 14:15:12 GMT</lastBuildDate>
         <atom:link href="http://edin.eu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Royal Republic - Weekend Man]]></title>
+            <description><![CDATA[<article><h1>Royal Republic - Weekend Man</h1><p>Energisk rock på Weekend Man från svenska Royal Republic. Överlever man ett antal "Danko Jones"-ish dängor belönas man med med Atomicsväng, Hellarock och Billy Idol-svep.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d61a4354558470a11f678642ef3b272871f7b1c.jpg"></article>]]></description>
+            <link>http://edin.eu/royal-republic-weekend-man/index.html</link>
+            <guid isPermaLink="false">95a04cca-693a-47cf-a105-bb203c5dcc15</guid>
+            <pubDate>Sun, 21 Aug 2016 14:15:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Old Man's Will - Hard Times - Troubled Man]]></title>
             <description><![CDATA[<article><h1>Old Man's Will - Hard Times - Troubled Man</h1><p>Rock och tung blues med 60/70-tals vibbar från detta Umeband. Grymt!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d32a507202896fe571fbacd8e77f5bd759c2d40e.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://edin.eu/el-pino-and-the-volunteers/index.html</link>
             <guid isPermaLink="false">2df05bec-7ac5-405a-ad6a-4b0c58f78f29</guid>
             <pubDate>Sun, 21 Aug 2016 12:09:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Steepwater Band - Shake Your Faith]]></title>
-            <description><![CDATA[<article><h1>The Steepwater Band - Shake Your Faith</h1><p>Inget att skämta bort trots lanseringsdatum 1/4. Modern blues-rock, finfin platta.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4997edf-b771-4497-8830-b46f6a54a4bd.jpg"></article>]]></description>
-            <link>http://edin.eu/the-steepwater-band-shake-your-faith/index.html</link>
-            <guid isPermaLink="false">3214972b-e3d9-45dd-b605-c872a4164327</guid>
-            <pubDate>Sun, 21 Aug 2016 12:09:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
