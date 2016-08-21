@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-21T12:24:34.143Z'
+datePublished: '2016-08-21T12:27:04.981Z'
 sourcePath: _posts/2016-08-21-the-struts-everybody-wants.md
 author: []
 via: {}
-dateModified: '2016-08-21T12:24:33.627Z'
+dateModified: '2016-08-21T12:27:04.482Z'
 title: The Struts - Everybody Wants
 publisher: {}
 description: ''
@@ -19,8 +19,8 @@ _type: MediaObject
 
 The Struts - Everybody Wants
 
-Rock med bra ös, en röst som inte så lite påminner om Freddie M. Spela [här][0]
+Rock med bra ös, en röst som inte så lite påminner om Freddie M. 
 
-Väldigt blandat, det finns något för alla som gillar någon form av rock.
+Väldigt blandat, det finns något för alla som gillar någon form av rock. Spela [här][0]
 
 [0]: https://open.spotify.com/album/5jQD9aAuIOy8LIGkVlgVKq
