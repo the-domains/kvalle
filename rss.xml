@@ -4,8 +4,15 @@
         <description><![CDATA[Mlog]]></description>
         <link>http://edin.eu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Aug 2016 14:17:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2016 14:23:33 GMT</lastBuildDate>
         <atom:link href="http://edin.eu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Retromästare - Vintage Trouble]]></title>
+            <description><![CDATA[<article><h1>Retromästare - Vintage Trouble</h1><p>Fick detta band framdukat när Storsjöyran presenterade klara artister till sommarens Yra. De är förmodligen vad man kan hälla ur en blender efter att har matat den med 60-70 tals rock, soul, rhythm & blues.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1b944cf402e3919f6e9545ef200696d8/croprotate.jpg?cropheight=1336&cropwidth=1400&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F523c9671-e9c9-4d46-96a4-ad7ee916d924.jpg&x=0&y=33"></article>]]></description>
+            <link>http://edin.eu/retromastare-vintage-trouble/index.html</link>
+            <guid isPermaLink="false">37ca2c7a-0b44-48c4-8a34-22c505e7033b</guid>
+            <pubDate>Sun, 21 Aug 2016 14:23:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[SIMO - Let Love Show The Way]]></title>
             <description><![CDATA[<article><h1>SIMO - Let Love Show The Way</h1><p>Dags för lite gitarr. Tung bluesrock med SIMO på nysläppta Let Love Show The Way</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/50d83210595ebb19bd1d7cdcc40b0cfb728286f0.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://edin.eu/brian-fallon-painkillers/index.html</link>
             <guid isPermaLink="false">afc26471-1e3e-4ee4-b114-caabd6ff85e6</guid>
             <pubDate>Sun, 21 Aug 2016 14:15:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Andrew Watt - Ghost In My Head EP]]></title>
-            <description><![CDATA[<article><h1>Andrew Watt - Ghost In My Head EP</h1><p>4 låtar dansant rock på denna EP. Riktigt jävla bra. Hoppas på en fullängdare som uppföljning.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a035d7c0203182bab07732ccc28cd5c0ded5e65f.jpg"></article>]]></description>
-            <link>http://edin.eu/andrew-watt-ghost-in-my-head-ep/index.html</link>
-            <guid isPermaLink="false">d990dc55-c5e6-4f62-9887-5f2459148ff0</guid>
-            <pubDate>Sun, 21 Aug 2016 14:15:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
