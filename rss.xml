@@ -4,8 +4,15 @@
         <description><![CDATA[Mlog]]></description>
         <link>http://edin.eu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Aug 2016 14:15:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2016 14:15:42 GMT</lastBuildDate>
         <atom:link href="http://edin.eu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Brian Fallon - Painkillers]]></title>
+            <description><![CDATA[<article><h1>Brian Fallon - Painkillers</h1><p>För alla fans av The Gaslight Anthem behöver han ingen närmare presentation. Här är Brian's nysläppta soloplatta.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ee49f38eaa590418c4727832d49e98fc41d93a7c.jpg"></article>]]></description>
+            <link>http://edin.eu/brian-fallon-painkillers/index.html</link>
+            <guid isPermaLink="false">afc26471-1e3e-4ee4-b114-caabd6ff85e6</guid>
+            <pubDate>Sun, 21 Aug 2016 14:15:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Andrew Watt - Ghost In My Head EP]]></title>
             <description><![CDATA[<article><h1>Andrew Watt - Ghost In My Head EP</h1><p>4 låtar dansant rock på denna EP. Riktigt jävla bra. Hoppas på en fullängdare som uppföljning.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a035d7c0203182bab07732ccc28cd5c0ded5e65f.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://edin.eu/the-defiants-the-defiants/index.html</link>
             <guid isPermaLink="false">5800162e-c0e8-43c5-8da8-e3effdbec9a4</guid>
             <pubDate>Sun, 21 Aug 2016 12:10:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Battleme - Habitual Love Songs]]></title>
-            <description><![CDATA[<article><h1>Battleme - Habitual Love Songs</h1><p>Lite skitig folk-rock, ganska eget sound. Bra amerikanskt skit helt enkelt. Hittas på Spotify här minsann</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6463cd03-7873-4527-87fa-4b6cfa30a7b3.jpg"></article>]]></description>
-            <link>http://edin.eu/battleme-habitual-love-songs/index.html</link>
-            <guid isPermaLink="false">eec28459-e2e6-44a5-81bb-f99f32b4178e</guid>
-            <pubDate>Sun, 21 Aug 2016 12:10:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
