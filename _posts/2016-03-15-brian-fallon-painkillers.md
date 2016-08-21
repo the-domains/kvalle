@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-21T10:56:41.707Z'
+datePublished: '2016-08-21T10:57:25.875Z'
 sourcePath: _posts/2016-03-15-brian-fallon-painkillers.md
 inFeed: true
 authors: []
@@ -8,17 +8,15 @@ keywords: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-08-21T10:56:41.019Z'
+via: {}
+dateModified: '2016-08-21T10:57:25.115Z'
 title: Brian Fallon - Painkillers
-publisher:
-  name: ''
-  url: ''
+publisher: {}
 description: >-
   För alla fans av The Gaslight Anthem behöver han ingen närmare presentation.
   Här är Brian's nysläppta soloplatta.
 inLanguage: null
 inNav: false
-via: {}
 starred: false
 url: brian-fallon-painkillers/index.html
 _type: Article
