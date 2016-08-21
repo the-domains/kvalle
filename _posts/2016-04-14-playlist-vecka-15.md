@@ -1,13 +1,15 @@
 ---
-datePublished: '2016-08-20T10:30:58.377Z'
+datePublished: '2016-08-21T10:59:57.640Z'
 sourcePath: _posts/2016-04-14-playlist-vecka-15.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
-author: []
+author:
+  - name: ''
+    url: ''
 via: {}
-dateModified: '2016-08-20T10:30:57.789Z'
+dateModified: '2016-08-21T10:59:56.985Z'
 title: Playlist - Vecka 15
 publisher: {}
 description: >-
