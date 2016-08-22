@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-22T23:00:38.127Z'
+datePublished: '2016-08-22T23:01:39.805Z'
 sourcePath: _posts/2016-03-10-royal-republic-weekend-man.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-22T22:50:07.050Z'
+dateModified: '2016-08-22T23:01:39.338Z'
 title: Royal Republic - Weekend Man
 publisher: {}
 description: >-
