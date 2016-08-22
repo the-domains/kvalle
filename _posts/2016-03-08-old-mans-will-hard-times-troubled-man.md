@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-22T23:00:38.118Z'
+datePublished: '2016-08-22T23:01:25.065Z'
 sourcePath: _posts/2016-03-08-old-mans-will-hard-times-troubled-man.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-22T22:50:07.052Z'
+dateModified: '2016-08-22T23:01:24.535Z'
 title: Old Man's Will - Hard Times - Troubled Man
 publisher: {}
 description: Rock och tung blues med 60/70-tals vibbar från detta Umeband. Grymt!
