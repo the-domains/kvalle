@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-22T22:56:22.646Z'
+datePublished: '2016-08-22T22:57:28.839Z'
 sourcePath: _posts/2016-03-04-son-little-son-little-deluxe-edition.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-22T22:56:20.758Z'
+dateModified: '2016-08-22T22:57:28.374Z'
 title: Son Little - Son Little (Deluxe Edition)
 publisher: {}
 description: >-
