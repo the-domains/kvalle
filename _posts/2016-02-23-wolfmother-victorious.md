@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-22T22:54:09.817Z'
+datePublished: '2016-08-22T22:55:26.886Z'
 sourcePath: _posts/2016-02-23-wolfmother-victorious.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-22T22:50:07.059Z'
+dateModified: '2016-08-22T22:55:26.323Z'
 title: Wolfmother - Victorious
 publisher: {}
 description: >-
