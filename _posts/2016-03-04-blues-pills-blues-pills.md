@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-22T22:58:19.683Z'
+datePublished: '2016-08-22T22:59:17.918Z'
 sourcePath: _posts/2016-03-04-blues-pills-blues-pills.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-22T22:50:07.054Z'
+dateModified: '2016-08-22T22:59:17.359Z'
 title: Blues Pills - Blues Pills
 publisher: {}
 description: >-
