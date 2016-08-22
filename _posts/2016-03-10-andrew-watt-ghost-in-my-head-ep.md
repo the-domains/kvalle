@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-22T23:01:49.118Z'
+datePublished: '2016-08-22T23:04:09.098Z'
 sourcePath: _posts/2016-03-10-andrew-watt-ghost-in-my-head-ep.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-22T23:01:48.672Z'
+dateModified: '2016-08-22T23:04:08.538Z'
 title: Andrew Watt - Ghost In My Head EP
 publisher: {}
 description: >-
