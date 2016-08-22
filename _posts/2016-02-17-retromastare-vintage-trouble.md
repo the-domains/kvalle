@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-22T22:50:52.651Z'
+datePublished: '2016-08-22T22:53:26.252Z'
 sourcePath: _posts/2016-02-17-retromastare-vintage-trouble.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-22T22:50:07.060Z'
+dateModified: '2016-08-22T22:53:25.545Z'
 title: Retromästare - Vintage Trouble
 publisher: {}
 description: >-
@@ -35,6 +35,8 @@ Blir prio på Yran.
 
 Jag gillar det tidigare albumet ([The Bomb Shelter Sessions][0]) bättre men det nya ([1 Hopeful Rd.][1]) är inte långt efter.
 ![Vintage Trouble - The Bomb Shelter Sessions](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef1bac9de9e0a73ac44abe8a535637b6195b7a0d.jpg)
+
+.
 
 [0]: https://open.spotify.com/album/6F9k0jgapNCNCO4h50nps5
 [1]: https://open.spotify.com/album/6mjaHhZJg0uLh9tbBRTBiN
