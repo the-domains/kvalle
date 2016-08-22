@@ -1,15 +1,16 @@
 ---
-datePublished: '2016-08-21T12:09:37.758Z'
+datePublished: '2016-08-22T22:30:04.031Z'
 sourcePath: _posts/2016-04-06-the-steepwater-band-shake-your-faith.md
 inFeed: true
+isBasedOnUrl: ''
 authors: []
-hasPage: true
+hasPage: false
 keywords: []
 author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-21T12:09:37.160Z'
+dateModified: '2016-08-22T22:30:03.507Z'
 title: The Steepwater Band - Shake Your Faith
 publisher: {}
 description: >-
@@ -18,8 +19,7 @@ description: >-
 inLanguage: null
 inNav: false
 starred: false
-url: the-steepwater-band-shake-your-faith/index.html
-_type: Article
+_type: Blurb
 
 ---
 # The Steepwater Band - Shake Your Faith
