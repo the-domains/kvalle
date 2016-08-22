@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Mlog]]></title>
+        <description><![CDATA[Mlog]]></description>
+        <link>http://edin.eu/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 22 Aug 2016 22:53:28 GMT</lastBuildDate>
+        <atom:link href="http://edin.eu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Retromästare - Vintage Trouble]]></title>
+            <description><![CDATA[<article><h1>Retromästare - Vintage Trouble</h1><p>Fick detta band framdukat när Storsjöyran presenterade klara artister till sommarens Yra. De är förmodligen vad man kan hälla ur en blender efter att har matat den med 60-70 tals rock, soul, rhythm & blues.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1b944cf402e3919f6e9545ef200696d8/croprotate.jpg?cropheight=1336&cropwidth=1400&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F523c9671-e9c9-4d46-96a4-ad7ee916d924.jpg&x=0&y=33"></article>]]></description>
+            <link>http://edin.eu/retromastare-vintage-trouble/index.html</link>
+            <guid isPermaLink="false">37ca2c7a-0b44-48c4-8a34-22c505e7033b</guid>
+            <pubDate>Mon, 22 Aug 2016 22:53:26 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
