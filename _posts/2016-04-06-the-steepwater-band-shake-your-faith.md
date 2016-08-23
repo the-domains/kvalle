@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-23T21:39:59.084Z'
+datePublished: '2016-08-23T21:40:37.879Z'
 sourcePath: _posts/2016-04-06-the-steepwater-band-shake-your-faith.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-22T22:50:07.041Z'
+dateModified: '2016-08-23T21:40:37.022Z'
 title: The Steepwater Band - Shake Your Faith
 publisher: {}
 description: >-
@@ -24,7 +24,7 @@ _type: Article
 ---
 # The Steepwater Band - Shake Your Faith
 
-Inget att skämta bort trots lanseringsdatum 1/4\. Modern blues-rock, [finfin platta][0].
+Inget att skämta bort trots lanseringsdatum 1/4\. Modern blues-rock, [finfin platta.][0]
 ![The Steepwater Band - Shake Your Faith](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4997edf-b771-4497-8830-b46f6a54a4bd.jpg)
 
 [0]: https://open.spotify.com/album/2OUfdsqpyq6BV2xlr81d8p
