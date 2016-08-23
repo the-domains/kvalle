@@ -4,8 +4,15 @@
         <description><![CDATA[Mlog]]></description>
         <link>http://edin.eu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Aug 2016 21:46:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 21:47:55 GMT</lastBuildDate>
         <atom:link href="http://edin.eu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SIMO - Let Love Show The Way]]></title>
+            <description><![CDATA[<article><h1>SIMO - Let Love Show The Way</h1><p>Dags för lite gitarr. Tung bluesrock med SIMO på nysläppta Let Love Show The Way.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/50d83210595ebb19bd1d7cdcc40b0cfb728286f0.jpg"></article>]]></description>
+            <link>http://edin.eu/simo-let-love-show-the-way/index.html</link>
+            <guid isPermaLink="false">d0e545c6-a5e3-494c-b0c9-d31c41b9e3f3</guid>
+            <pubDate>Tue, 23 Aug 2016 21:47:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Jessica Hernandez & The Deltas - Secret Evil]]></title>
             <description><![CDATA[<article><h1>Jessica Hernandez & The Deltas - Secret Evil</h1><p>Åh! Ett fynd med ett par år på nacken. Ljuvlig svängig Soulpop, bra röst! Secret Evil finns med några bonusspår på Spotify här.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bedc8d6b-edc5-46da-a43c-88772c24ec4e.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://edin.eu/brian-fallon-painkillers/index.html</link>
             <guid isPermaLink="false">afc26471-1e3e-4ee4-b114-caabd6ff85e6</guid>
             <pubDate>Tue, 23 Aug 2016 21:33:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Andrew Watt - Ghost In My Head EP]]></title>
-            <description><![CDATA[<article><h1>Andrew Watt - Ghost In My Head EP</h1><p>4 låtar dansant rock på denna EP. Riktigt jävla bra. Hoppas på en fullängdare som uppföljning.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a035d7c0203182bab07732ccc28cd5c0ded5e65f.jpg"></article>]]></description>
-            <link>http://edin.eu/andrew-watt-ghost-in-my-head-ep/index.html</link>
-            <guid isPermaLink="false">d990dc55-c5e6-4f62-9887-5f2459148ff0</guid>
-            <pubDate>Mon, 22 Aug 2016 23:04:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
