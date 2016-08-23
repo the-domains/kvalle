@@ -1,18 +1,18 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: Retro hårdrock från svenska Hypnos på plattan Cold Winds.
-datePublished: '2016-08-23T21:49:26.774Z'
-dateModified: '2016-08-22T22:50:07.021Z'
-title: Hypnos - Cold Winds
-author: []
-authors: []
-publisher: {}
+datePublished: '2016-08-23T21:50:02.970Z'
 sourcePath: _posts/2016-05-10-hypnos-cold-winds.md
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
+author: []
 via: {}
+dateModified: '2016-08-23T21:50:02.057Z'
+title: Hypnos - Cold Winds
+publisher: {}
+description: Retro hårdrock från svenska Hypnos på plattan Cold Winds.
+inLanguage: null
+inNav: false
 starred: false
 url: hypnos-cold-winds/index.html
 _type: Article
