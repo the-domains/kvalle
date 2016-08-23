@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-23T21:50:39.289Z'
+datePublished: '2016-08-23T21:51:19.205Z'
 sourcePath: _posts/2016-08-21-the-struts-everybody-wants.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-22T22:50:07.020Z'
+dateModified: '2016-08-23T21:51:18.684Z'
 title: The Struts - Everybody Wants
 publisher: {}
 description: Ösig rock med en sångare om påminner en hel del om Freddie Mercury.
