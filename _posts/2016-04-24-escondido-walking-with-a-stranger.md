@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-23T21:43:30.726Z'
+datePublished: '2016-08-23T21:44:06.291Z'
 sourcePath: _posts/2016-04-24-escondido-walking-with-a-stranger.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-22T22:50:07.035Z'
+dateModified: '2016-08-23T21:44:05.736Z'
 title: Escondido - Walking With a Stranger
 publisher: {}
 description: >-
