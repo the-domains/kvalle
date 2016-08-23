@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-23T21:38:09.259Z'
+datePublished: '2016-08-23T21:39:23.261Z'
 sourcePath: _posts/2016-03-30-white-denim-stiff.md
 inFeed: true
 authors: []
@@ -9,11 +9,11 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-22T22:50:07.043Z'
+dateModified: '2016-08-23T21:39:22.513Z'
 title: White Denim - Stiff
 publisher: {}
 description: >-
-  Lekfullt & funky soul-ish rock med driv på Stiff med White DenimTack till
+  Lekfullt & funky soul-ish rock med driv på Stiff med White Denim Tack till
   Spotinews som hittade denna åt mig.
 inLanguage: null
 inNav: false
