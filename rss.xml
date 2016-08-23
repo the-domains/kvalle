@@ -4,8 +4,15 @@
         <description><![CDATA[Mlog]]></description>
         <link>http://edin.eu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Aug 2016 21:44:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 21:45:31 GMT</lastBuildDate>
         <atom:link href="http://edin.eu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Defiants - The Defiants]]></title>
+            <description><![CDATA[<article><h1>The Defiants - The Defiants</h1><p>Danger danger. 80/90-talet var förbi och lämnade av den här hårdrocksplattan.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/96d0812e-5118-42d3-aaef-b966e024a83e.jpg"></article>]]></description>
+            <link>http://edin.eu/the-defiants-the-defiants/index.html</link>
+            <guid isPermaLink="false">5800162e-c0e8-43c5-8da8-e3effdbec9a4</guid>
+            <pubDate>Tue, 23 Aug 2016 21:45:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Escondido - Walking With a Stranger]]></title>
             <description><![CDATA[<article><h1>Escondido - Walking With a Stranger</h1><p>Här har vi en platta där en producent till en modern spagettiwestern skulle kunna hitta potentiella soundtracks. Svävande cosy.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/50d67d0a-3f42-4f9d-b563-2bda5fa7fb51.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://edin.eu/royal-republic-weekend-man/index.html</link>
             <guid isPermaLink="false">95a04cca-693a-47cf-a105-bb203c5dcc15</guid>
             <pubDate>Mon, 22 Aug 2016 23:03:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Old Man's Will - Hard Times - Troubled Man]]></title>
-            <description><![CDATA[<article><h1>Old Man's Will - Hard Times - Troubled Man</h1><p>Rock och tung blues med 60/70-tals vibbar från detta Umeband. Grymt!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d32a507202896fe571fbacd8e77f5bd759c2d40e.jpg"></article>]]></description>
-            <link>http://edin.eu/old-mans-will-hard-times-troubled-man/index.html</link>
-            <guid isPermaLink="false">47d2e4d9-d9a7-4a6b-9c80-b29671a17a60</guid>
-            <pubDate>Mon, 22 Aug 2016 23:02:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
