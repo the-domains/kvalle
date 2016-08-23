@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-23T21:35:06.771Z'
+datePublished: '2016-08-23T21:36:41.690Z'
 sourcePath: _posts/2016-03-22-the-wild-feathers-lonely-is-a-lifetime.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-23T21:35:01.353Z'
+dateModified: '2016-08-23T21:36:41.051Z'
 title: The Wild Feathers - Lonely Is A Lifetime
 publisher: {}
 description: >-
