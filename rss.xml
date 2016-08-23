@@ -4,8 +4,15 @@
         <description><![CDATA[Mlog]]></description>
         <link>http://edin.eu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Aug 2016 21:51:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 21:52:32 GMT</lastBuildDate>
         <atom:link href="http://edin.eu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Rival Sons - Hollow Bones]]></title>
+            <description><![CDATA[<article><h1>Rival Sons - Hollow Bones</h1><p>Favoritbandet har släppt nytt!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/02ac0337-832a-433c-9c0d-a5e715f08b2c.jpg"></article>]]></description>
+            <link>http://edin.eu/rival-sons-hollow-bones/index.html</link>
+            <guid isPermaLink="false">a244e7e7-17de-451c-b3d7-da6ceb920304</guid>
+            <pubDate>Tue, 23 Aug 2016 21:52:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Struts - Everybody Wants]]></title>
             <description><![CDATA[<article><h1>The Struts - Everybody Wants</h1><p>Ösig rock med en sångare om påminner en hel del om Freddie Mercury.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/049fef7d-5175-4921-9a85-823ca8c69de7.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://edin.eu/el-pino-and-the-volunteers/index.html</link>
             <guid isPermaLink="false">2df05bec-7ac5-405a-ad6a-4b0c58f78f29</guid>
             <pubDate>Tue, 23 Aug 2016 21:41:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Steepwater Band - Shake Your Faith]]></title>
-            <description><![CDATA[<article><h1>The Steepwater Band - Shake Your Faith</h1><p>Inget att skämta bort trots lanseringsdatum 1/4. Modern blues-rock, finfin platta.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4997edf-b771-4497-8830-b46f6a54a4bd.jpg"></article>]]></description>
-            <link>http://edin.eu/the-steepwater-band-shake-your-faith/index.html</link>
-            <guid isPermaLink="false">3214972b-e3d9-45dd-b605-c872a4164327</guid>
-            <pubDate>Tue, 23 Aug 2016 21:40:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
