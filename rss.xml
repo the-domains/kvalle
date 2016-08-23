@@ -4,8 +4,15 @@
         <description><![CDATA[Mlog]]></description>
         <link>http://edin.eu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Aug 2016 21:50:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 21:51:22 GMT</lastBuildDate>
         <atom:link href="http://edin.eu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Struts - Everybody Wants]]></title>
+            <description><![CDATA[<article><h1>The Struts - Everybody Wants</h1><p>Ösig rock med en sångare om påminner en hel del om Freddie Mercury.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/049fef7d-5175-4921-9a85-823ca8c69de7.jpg"></article>]]></description>
+            <link>http://edin.eu/the-struts-everybody-wants/index.html</link>
+            <guid isPermaLink="false">34587005-2682-4a93-a23b-29ff61bdff20</guid>
+            <pubDate>Tue, 23 Aug 2016 21:51:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hypnos - Cold Winds]]></title>
             <description><![CDATA[<article><h1>Hypnos - Cold Winds</h1><p>Retro hårdrock från svenska Hypnos på plattan Cold Winds.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a09e21f-5533-4570-8cc6-89bdc251eacb.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://edin.eu/the-steepwater-band-shake-your-faith/index.html</link>
             <guid isPermaLink="false">3214972b-e3d9-45dd-b605-c872a4164327</guid>
             <pubDate>Tue, 23 Aug 2016 21:40:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[White Denim - Stiff]]></title>
-            <description><![CDATA[<article><h1>White Denim - Stiff</h1><p>Lekfullt & funky soul-ish rock med driv på Stiff med White DenimTack till Spotinews som hittade denna åt mig.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7abae927-b9a4-4a2c-ab4e-062648bd83e8.jpg"></article>]]></description>
-            <link>http://edin.eu/white-denim-stiff/index.html</link>
-            <guid isPermaLink="false">3916be34-e043-4940-9b01-0cc35e78e959</guid>
-            <pubDate>Tue, 23 Aug 2016 21:39:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
