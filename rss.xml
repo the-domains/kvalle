@@ -4,8 +4,15 @@
         <description><![CDATA[Mlog]]></description>
         <link>http://edin.eu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Aug 2016 21:49:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 21:50:05 GMT</lastBuildDate>
         <atom:link href="http://edin.eu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hypnos - Cold Winds]]></title>
+            <description><![CDATA[<article><h1>Hypnos - Cold Winds</h1><p>Retro hårdrock från svenska Hypnos på plattan Cold Winds.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a09e21f-5533-4570-8cc6-89bdc251eacb.jpg"></article>]]></description>
+            <link>http://edin.eu/hypnos-cold-winds/index.html</link>
+            <guid isPermaLink="false">0695e140-e2f7-447e-bb62-ee74628a1fd0</guid>
+            <pubDate>Tue, 23 Aug 2016 21:50:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Kyle Craft - Dolls of Highland]]></title>
             <description><![CDATA[<article><h1>Kyle Craft - Dolls of Highland</h1><p>Debutalbum av rock singer-songwriter Kyle Craft, En bra debut, skön platta.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c93d79c1-2e81-4dc5-9737-14cd8e48e677.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://edin.eu/white-denim-stiff/index.html</link>
             <guid isPermaLink="false">3916be34-e043-4940-9b01-0cc35e78e959</guid>
             <pubDate>Tue, 23 Aug 2016 21:39:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Wild Feathers - Lonely Is A Lifetime]]></title>
-            <description><![CDATA[<article><h1>The Wild Feathers - Lonely Is A Lifetime</h1><p>Skön amerikansk rock åt det lite poppigare hållet på denna platta. Bra låtskrivare, bra röster. Gillart, men vill nu hitta en rockplatta med lite ös och sköna riff.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/04aec007-be3a-4474-b9bf-7d2533d8691a.jpg"></article>]]></description>
-            <link>http://edin.eu/the-wild-feathers-lonely-is-a-lifetime/index.html</link>
-            <guid isPermaLink="false">98876b5b-1556-477a-929d-7073d342d83b</guid>
-            <pubDate>Tue, 23 Aug 2016 21:36:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
