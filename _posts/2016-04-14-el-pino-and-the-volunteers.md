@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-23T21:41:14.603Z'
+datePublished: '2016-08-23T21:41:48.859Z'
 sourcePath: _posts/2016-04-14-el-pino-and-the-volunteers.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-22T22:50:07.039Z'
+dateModified: '2016-08-23T21:41:48.320Z'
 title: El Pino and the Volunteers
 publisher: {}
 description: >-
