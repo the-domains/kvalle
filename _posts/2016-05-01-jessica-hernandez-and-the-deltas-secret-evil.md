@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-23T21:45:47.750Z'
+datePublished: '2016-08-23T21:46:31.354Z'
 sourcePath: _posts/2016-05-01-jessica-hernandez-and-the-deltas-secret-evil.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-22T22:50:07.032Z'
+dateModified: '2016-08-23T21:46:30.638Z'
 title: Jessica Hernandez & The Deltas - Secret Evil
 publisher: {}
 description: >-
