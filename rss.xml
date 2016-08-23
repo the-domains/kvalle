@@ -4,8 +4,15 @@
         <description><![CDATA[Mlog]]></description>
         <link>http://edin.eu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Aug 2016 21:52:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 21:53:35 GMT</lastBuildDate>
         <atom:link href="http://edin.eu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Blues Pills - Lady in Gold]]></title>
+            <description><![CDATA[<article><h1>Blues Pills - Lady in Gold</h1><p>2016-08-21, Nytt från Blues Pills, som tonat ner bluesen något.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a41f00b6-b5b6-49f9-8c7d-09f09d970665.jpg"></article>]]></description>
+            <link>http://edin.eu/blues-pills-lady-in-gold/index.html</link>
+            <guid isPermaLink="false">3562c63e-399c-4b17-88c7-7e4ce0d1b8bc</guid>
+            <pubDate>Tue, 23 Aug 2016 21:53:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Rival Sons - Hollow Bones]]></title>
             <description><![CDATA[<article><h1>Rival Sons - Hollow Bones</h1><p>Favoritbandet har släppt nytt!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/02ac0337-832a-433c-9c0d-a5e715f08b2c.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://edin.eu/battleme-habitual-love-songs/index.html</link>
             <guid isPermaLink="false">eec28459-e2e6-44a5-81bb-f99f32b4178e</guid>
             <pubDate>Tue, 23 Aug 2016 21:42:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[El Pino and the Volunteers]]></title>
-            <description><![CDATA[<article><h1>El Pino and the Volunteers</h1><p>Amsterdambaserade El Pino and the Volunteers bjuder på riktigt skön poppig rock på detta album. Inte det mest spelade bandet på Spotify men de är värda betydligt fler lyssningar.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/38824b0b-3702-4990-9366-658b8297729b.jpg"></article>]]></description>
-            <link>http://edin.eu/el-pino-and-the-volunteers/index.html</link>
-            <guid isPermaLink="false">2df05bec-7ac5-405a-ad6a-4b0c58f78f29</guid>
-            <pubDate>Tue, 23 Aug 2016 21:41:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
