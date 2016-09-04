@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-09-01T09:33:19.097Z'
+datePublished: '2016-09-01T09:40:14.394Z'
 sourcePath: _posts/2016-09-01-maidavale-tales-of-the-wicked-west.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-01T09:33:18.573Z'
+dateModified: '2016-09-01T09:40:09.256Z'
 title: MaidaVale - Tales of the Wicked West
 publisher: {}
 description: '2016-09-01, Tung retro- blues och rock från Svenska MaidaVale.'
