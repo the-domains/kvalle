@@ -4,8 +4,15 @@
         <description><![CDATA[Mlog]]></description>
         <link>http://edin.eu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 01 Sep 2016 10:02:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 10:03:07 GMT</lastBuildDate>
         <atom:link href="http://edin.eu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MaidaVale - Tales of the Wicked West]]></title>
+            <description><![CDATA[<article><h1>MaidaVale - Tales of the Wicked West</h1><p>2016-09-01, Tung retro- blues och rock från Svenska MaidaVale.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce94915b-eced-4a65-bf68-aa1d780e6fa2.jpg"></article>]]></description>
+            <link>http://edin.eu/maidavale-tales-of-the-wicked-west/index.html</link>
+            <guid isPermaLink="false">995332f1-74ce-4cdf-9869-638b4e74c93b</guid>
+            <pubDate>Thu, 01 Sep 2016 10:03:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Blues Pills - Lady in Gold]]></title>
             <description><![CDATA[<article><h1>Blues Pills - Lady in Gold</h1><p>2016-08-21, Nytt från Blues Pills, som tonat ner bluesen något.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a41f00b6-b5b6-49f9-8c7d-09f09d970665.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://edin.eu/escondido-walking-with-a-stranger/index.html</link>
             <guid isPermaLink="false">f5742567-b049-417d-9367-dd844e2e9720</guid>
             <pubDate>Tue, 23 Aug 2016 21:44:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Battleme - Habitual Love Songs]]></title>
-            <description><![CDATA[<article><h1>Battleme - Habitual Love Songs</h1><p>Lite skitig folk-rock, ganska eget sound. Bra amerikanskt skit helt enkelt. Hittas på Spotify här minsann.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6463cd03-7873-4527-87fa-4b6cfa30a7b3.jpg"></article>]]></description>
-            <link>http://edin.eu/battleme-habitual-love-songs/index.html</link>
-            <guid isPermaLink="false">eec28459-e2e6-44a5-81bb-f99f32b4178e</guid>
-            <pubDate>Tue, 23 Aug 2016 21:42:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
