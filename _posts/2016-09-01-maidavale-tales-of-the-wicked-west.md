@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-09-01T09:40:14.394Z'
+datePublished: '2016-09-01T09:54:10.972Z'
 sourcePath: _posts/2016-09-01-maidavale-tales-of-the-wicked-west.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-01T09:40:09.256Z'
+dateModified: '2016-09-01T09:54:10.549Z'
 title: MaidaVale - Tales of the Wicked West
 publisher: {}
 description: '2016-09-01, Tung retro- blues och rock från Svenska MaidaVale.'
@@ -15,7 +15,7 @@ _type: Blurb
 # MaidaVale - Tales of the Wicked West
 
 2016-09-01, Tung retro- blues och rock från Svenska MaidaVale.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce94915b-eced-4a65-bf68-aa1d780e6fa2.jpg)
+![MaidaVale - Tales of the Wicked West](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce94915b-eced-4a65-bf68-aa1d780e6fa2.jpg)
 
 Deras första platta [Tales of the Wicked West][0] släpptes 5 augusti och lovar gott inför framtiden.
 
