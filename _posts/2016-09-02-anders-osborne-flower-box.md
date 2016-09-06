@@ -1,17 +1,17 @@
 ---
-datePublished: '2016-09-02T19:33:53.303Z'
+datePublished: '2016-09-02T19:41:09.268Z'
+sourcePath: _posts/2016-09-02-anders-osborne-flower-box.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-02T19:30:32.696Z'
+dateModified: '2016-09-02T19:41:08.705Z'
 title: Anders Osborne - Flower Box
 publisher: {}
 description: >-
   2016-09-02, New Orleans-svensken Anders Osborn levererar sitt andra album för
-  året och det är kvalitet rakt igenom.
+  året och det är kvalitet rakt igenom, igen.
 starred: false
-sourcePath: _posts/2016-09-02-anders-osborne-flower-box.md
 url: anders-osborne-flower-box/index.html
 _type: Article
 
@@ -20,6 +20,6 @@ _type: Article
 
 # Anders Osborne - Flower Box
 
-2016-09-02, New Orleans-svensken Anders Osborn levererar sitt andra album för året och det är kvalitet rakt igenom.
+2016-09-02, New Orleans-svensken Anders Osborn levererar sitt andra album för året och det är kvalitet rakt igenom, igen.
 
 Grym låtskrivare som spelar rock och blues influerad från världens alla hörn. Sen är han en grym gitarrist också! Gillas.
