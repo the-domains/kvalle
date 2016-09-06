@@ -4,8 +4,15 @@
         <description><![CDATA[Mlog]]></description>
         <link>http://edin.eu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 02 Sep 2016 19:41:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2016 20:37:35 GMT</lastBuildDate>
         <atom:link href="http://edin.eu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Black Pistol Fire - Don’t Wake the Riot]]></title>
+            <description><![CDATA[<article><h1>Black Pistol Fire - Don’t Wake the Riot</h1><p>2016-09-02, Ja man kan rocka i Kanada också. Riktigt bra old school rock!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca8d45ce-5c4c-4c16-b37d-8f51b3814e37.jpg"></article>]]></description>
+            <link>http://edin.eu/black-pistol-fire-dont-wake-the-riot/index.html</link>
+            <guid isPermaLink="false">30ec847d-0522-4b4e-a46c-d193a46fa675</guid>
+            <pubDate>Fri, 02 Sep 2016 20:37:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Anders Osborne - Flower Box]]></title>
             <description><![CDATA[<article><h1>Anders Osborne - Flower Box</h1><p>2016-09-02, New Orleans-svensken Anders Osborn levererar sitt andra album för året och det är kvalitet rakt igenom, igen.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b50316c-85fe-49db-bf66-55624ad420a0.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://edin.eu/jessica-hernandez-and-the-deltas-secret-evil/index.html</link>
             <guid isPermaLink="false">ffeda3c8-37cc-4570-8028-0df23d2502de</guid>
             <pubDate>Tue, 23 Aug 2016 21:46:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Defiants - The Defiants]]></title>
-            <description><![CDATA[<article><h1>The Defiants - The Defiants</h1><p>Danger danger. 80/90-talet var förbi och lämnade av den här hårdrocksplattan.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/96d0812e-5118-42d3-aaef-b966e024a83e.jpg"></article>]]></description>
-            <link>http://edin.eu/the-defiants-the-defiants/index.html</link>
-            <guid isPermaLink="false">5800162e-c0e8-43c5-8da8-e3effdbec9a4</guid>
-            <pubDate>Tue, 23 Aug 2016 21:45:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
