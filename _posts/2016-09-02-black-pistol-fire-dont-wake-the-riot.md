@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-09-02T20:34:11.211Z'
+datePublished: '2016-09-02T20:37:33.017Z'
+sourcePath: _posts/2016-09-02-black-pistol-fire-dont-wake-the-riot.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-02T20:33:48.710Z'
+dateModified: '2016-09-02T20:37:32.314Z'
 title: Black Pistol Fire - Don’t Wake the Riot
 publisher: {}
 description: '2016-09-02, Ja man kan rocka i Kanada också. Riktigt bra old school rock!'
 starred: false
-sourcePath: _posts/2016-09-02-black-pistol-fire-dont-wake-the-riot.md
 url: black-pistol-fire-dont-wake-the-riot/index.html
 _type: Article
 
@@ -20,7 +20,7 @@ _type: Article
 
 2016-09-02, Ja man kan rocka i Kanada också. Riktigt bra old school rock!
 
-Några månader gammalt men vad gör väl det. Klockren rock inte helt utan swagg!  
+Några månader gammal men vad gör väl det? Klockren rock inte helt utan swagg!  
 [Här lyssnar ni på Don't Wake the Riot][0] på Spotify
 
 [0]: https://open.spotify.com/album/3OTIQe9TKVBc8wR6JWhlQU
