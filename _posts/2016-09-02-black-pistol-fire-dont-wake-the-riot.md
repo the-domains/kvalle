@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-02T20:37:33.017Z'
+datePublished: '2016-09-03T08:24:38.305Z'
 sourcePath: _posts/2016-09-02-black-pistol-fire-dont-wake-the-riot.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-02T20:37:32.314Z'
+dateModified: '2016-09-03T08:24:37.222Z'
 title: Black Pistol Fire - Don’t Wake the Riot
 publisher: {}
 description: '2016-09-02, Ja man kan rocka i Kanada också. Riktigt bra old school rock!'
