@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-01T10:02:24.172Z'
+datePublished: '2016-09-03T08:23:44.153Z'
 sourcePath: _posts/2016-08-21-blues-pills-lady-in-gold.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-01T10:02:23.738Z'
+dateModified: '2016-09-03T08:23:42.891Z'
 title: Blues Pills - Lady in Gold
 publisher: {}
 description: '2016-08-21, Nytt från Blues Pills, som tonat ner bluesen något.'
