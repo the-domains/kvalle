@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-02T19:41:09.268Z'
+datePublished: '2016-09-03T08:24:21.560Z'
 sourcePath: _posts/2016-09-02-anders-osborne-flower-box.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-02T19:41:08.705Z'
+dateModified: '2016-09-03T08:24:20.702Z'
 title: Anders Osborne - Flower Box
 publisher: {}
 description: >-
